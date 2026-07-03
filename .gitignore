@@ -1,0 +1,26 @@
+# Nuxt
+.nuxt
+.output
+.data
+dist
+.nitro
+.cache
+
+# Node
+node_modules
+*.log
+.npmrc
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Pipeline working files (large raw downloads / intermediates)
+pipeline/.work
+public/data/*.pmtiles
+
+# Editor / OS
+.DS_Store
+.vscode/*
+!.vscode/extensions.json

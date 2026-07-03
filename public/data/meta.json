@@ -1,0 +1,10 @@
+{
+  "updatedAt": "2026-07-01T15:37:39.194Z",
+  "layers": [
+    "roads",
+    "adm1",
+    "adm2",
+    "adm3",
+    "villages"
+  ]
+}

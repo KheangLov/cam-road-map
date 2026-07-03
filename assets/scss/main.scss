@@ -1,0 +1,24 @@
+@use 'maplibre-gl/dist/maplibre-gl.css';
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__nuxt {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: 'Inter', 'Noto Sans Khmer', system-ui, -apple-system, sans-serif;
+  color: $color-text;
+  background: $color-bg;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: $color-accent;
+}

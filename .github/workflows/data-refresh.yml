@@ -1,0 +1,69 @@
+name: Refresh data & deploy
+
+# Rebuild the PMTiles archive weekly from the latest OSM + boundary sources,
+# then build and deploy the static site.
+on:
+  schedule:
+    - cron: '0 3 * * 1' # Mondays 03:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Boundary source URLs (set as repo variables/secrets).
+      ADM1_URL: ${{ vars.ADM1_URL }}
+      ADM2_URL: ${{ vars.ADM2_URL }}
+      ADM3_URL: ${{ vars.ADM3_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install osmium + GDAL
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y osmium-tool gdal-bin build-essential libsqlite3-dev zlib1g-dev
+
+      - name: Build tippecanoe from source
+        run: |
+          git clone --depth 1 https://github.com/felt/tippecanoe.git /tmp/tippecanoe
+          make -C /tmp/tippecanoe -j2
+          sudo make -C /tmp/tippecanoe install
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build data (roads + boundaries → PMTiles)
+        run: npm run data:all
+
+      - name: Run tests
+        run: npm test
+
+      - name: Generate static site
+        run: npm run generate
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .output/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
