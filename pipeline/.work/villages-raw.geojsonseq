@@ -1,0 +1,1027 @@
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0756492,12.0589477]},"properties":{"alt_name:en":"Skun","name":"ភូមិស្គន់","name:en":"Phum Skuon","name:zh":"斯棍","place":"village","wikidata":"Q3962591","wikipedia":"en:Skuon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3898912,12.8554338]},"properties":{"name":"ភូមិ ស្ទឹងចក","name:en":"Phum Stoeng Chak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.877582,12.6156728]},"properties":{"name":"Preah Meas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.9309687,12.5814971]},"properties":{"name":"ឃុំមេម៉ង់","name:en":"Memang","name:km":"ឃុំមេម៉ង់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9083669,11.6528617]},"properties":{"name":"หาดเล็ก","name:en":"Hat Lek","name:th":"หาดเล็ก","place":"village","population":"4462"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5964863,13.7753664]},"properties":{"name":"Sralau","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3731447,13.1677665]},"properties":{"name":"Srei Pang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.231629,13.5697186]},"properties":{"name":"Chư Sen","name:en":"Chư Sen","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.1086898,13.7744061]},"properties":{"name":"Ba Nev","name:en":"Ba Nev","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9515398,13.9916672]},"properties":{"name":"Sra Ngue","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9830769,13.9336905]},"properties":{"name":"Srae Loa","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.2485422,13.6295432]},"properties":{"name":"ឃុំតាសៀម","name:en":"Khum Ta Siem","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.2287539,13.4684285]},"properties":{"name":"បឹងមាលា","name:en":"Beng Mealea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1113482,13.3326637]},"properties":{"name":"Rovieng Cheung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4567697,13.375263]},"properties":{"name":"Krang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7101692,13.6550407]},"properties":{"name":"Kdak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6135894,13.5793212]},"properties":{"name":"Mrech","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3514216,13.370889]},"properties":{"name":"Chansar Khang Cheung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4122283,13.4254394]},"properties":{"name":"Chong Sdan","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0794659,10.8706193]},"properties":{"name":"ចន្ទ្រា","name:en":"Chantrea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.1293824,10.8826441]},"properties":{"name":"ទួលស្ដី","name:en":"Tuol Sdei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6573611,10.9482442]},"properties":{"name":"ដូនទួត","name:en":"Don Tuot","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8362076,12.5101265]},"properties":{"name":"Toek Sok","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.5135392,11.2588893]},"properties":{"name":"ចេក","name:en":"Cheak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.585799,11.208934]},"properties":{"name":"ព្រះម្លប់","name:en":"Preah Mlop","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.28461,11.9013183]},"properties":{"name":"ឃុំព្រែកតានង់","name:en":"Preak Ta Nong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.6296529,12.6583019]},"properties":{"name":"Chumtang Luoch","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5217471,11.4831657]},"properties":{"name":"ធ្លក","name:en":"Thlok","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.1773349,11.9350743]},"properties":{"name":"កំបាស់","name:en":"Kambas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3310889,12.3303148]},"properties":{"name":"ឃុំស្ពឺ","name:en":"Spueu","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9304438,11.7667471]},"properties":{"name":"ឃុំក្រែក","name:en":"Krek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3376936,11.8929369]},"properties":{"name":"ក្ដុលក្រោម","name:en":"Kdol Kraom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.419635,11.6808935]},"properties":{"name":"ព្រៃស្វាយ","name:en":"Prey Svay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3658658,11.7327549]},"properties":{"name":"ឃុំព្រៃទឹង","name:en":"Prey Tueng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3672228,11.8251]},"properties":{"name":"អន្លង់សរ","name:en":"Anlong Sar","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7217814,11.755725]},"properties":{"name":"ឃុំដូនតី","name:en":"Dountei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.2737333,12.5914045]},"properties":{"name":"Dang Kda/ ដងក្តា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5710316,12.5592707]},"properties":{"name":"Andong","name:ko":"안동","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8114365,11.6434877]},"properties":{"name":"អំពិល","name:en":"Ampil","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.1544867,11.7529894]},"properties":{"name":"សូទៃ","name:en":"Soutey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3387138,11.7673982]},"properties":{"name":"ឃុំជាំក្រវៀន","name:en":"Choam Kravien","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3799697,11.7081719]},"properties":{"name":"សាទុំ","name:en":"Satum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0337334,12.6104239]},"properties":{"name":"Kbal Chuor","name:km":"ភូមិក្បាលជួរ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6562483,11.7909556]},"properties":{"name":"Tbeng Khpuos","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0292872,12.6959412]},"properties":{"name":"Sandan","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9683029,12.6383239]},"properties":{"name":"Krieng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.570267,11.61922]},"properties":{"name":"Banteay Khmer","name:en":"Banteay Khmer","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.5273902,11.5666775]},"properties":{"name":"Ampil Phsem","name:en":"Ampil Phsem","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6974682,11.679069]},"properties":{"name":"ឃុំក្សេមក្សាន្ដ","name:en":"Khsem Khsan","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6650579,11.4438046]},"properties":{"name":"ក្រាំងរលួស","name:en":"Krang Roluos","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6472379,11.3571798]},"properties":{"name":"គគ្រួស","name:en":"Kokrues","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0541833,12.3361685]},"properties":{"name":"Peak Chamlak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0387314,12.3748697]},"properties":{"name":"Kaoh Chreng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9555399,12.4670993]},"properties":{"name":"Roha","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.4089424,12.3034945]},"properties":{"name":"Khsim","name:en":"Khsim","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9427811,11.7732127]},"properties":{"name":"Kirivung","name:en":"Kirivung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.2242886,12.6787476]},"properties":{"name":"Pu Chri","name:en":"Ph. Pu Chr","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.590817,10.5366239]},"properties":{"name":"ភូមិតន់ហន់","name:en":"Ton Hon","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4369688,10.4464053]},"properties":{"description":"ភូមិលក ឃុំឫស្សីស្រុកខាងលិច ស្រុកកំពង់ត្រាច ខេត្តកំពត","name":"ភូមិលក","name:en":"Phum Lok","name:vi":"Phum Lok","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8589742,12.3627824]},"properties":{"name":"Stung Tro","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8571782,12.533849]},"properties":{"name":"Sre Pou","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.1782905,13.3115166]},"properties":{"name":"Srei Mat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4509218,11.3820685]},"properties":{"name":"ឃុំទឹកថ្លា","name:en":"Tuek Thla","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3017744,13.3119593]},"properties":{"name":"Thman Koul","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.4223161,13.0698043]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5495047,11.1923893]},"properties":{"name":"ឃុំគោខ្ចក","name:en":"Kouk Khchak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4580412,11.0210944]},"properties":{"name":"ក្រចាប់","name:en":"Krachap","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3888088,11.1707184]},"properties":{"name":"ឃុំល្វា","name:en":"Lvea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.4385651,13.7547124]},"properties":{"name":"Ph. Kămpa Du","name:en":"Ph. Kămpa Du","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6666,13.6606532]},"properties":{"name":"Rumpung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6786325,13.6827304]},"properties":{"name":"Kok Thmei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7420765,13.6818249]},"properties":{"name":"Kok Snuol","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7604774,13.6871267]},"properties":{"name":"Andoung Chas","name:en":"ANLONG CHAS","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9739761,13.354857]},"properties":{"name":"លលៃ","name:en":"Lolei","name:ko":"로레이","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8132013,12.8515297]},"properties":{"name":"Soay Sar","name:ru":"Свайса","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9623746,11.5670383]},"properties":{"name":"Phum Boeung Khun Chhang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.1903081,13.9977223]},"properties":{"name:en":"Siem Hong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3397365,12.5470664]},"properties":{"name":"Srae Ampum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.9003198,14.0327627]},"properties":{"name":"Kaoh Peak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8010655,13.9652829]},"properties":{"fixme":"village name needed","name":"Chinese Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6318335,12.2469711]},"properties":{"description":"ភូមិអណ្តូងឫស្សី ឃុំស្រែថ្មី ស្រុករលាប្អៀរ ខេត្តកំពង់ឆ្នាំង","name":"ភូមិអណ្តូងឫស្សី","name:en":"Phum Andoung Russey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2088269,12.0822675]},"properties":{"name":"ឃុំអូរសោម","name:en":"Ou Saom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1263131,13.1063878]},"properties":{"is_in":"Cambodia","name":"កំពង់ឃ្លាំង","name:en":"Kampong Khleang","note":"Floating Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6591253,13.2405052]},"properties":{"is_in:country":"Cambodia","name":"ឃុំកោះជីវាំង","name:en":"Khum Koh Chiveang floating village","place":"village","wikidata":"Q6366051"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.32127,12.1793248]},"properties":{"is_in":"Cambodia","name":"ឃុំបុសខ្នុរ","name:en":"Bos Khnor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1265537,12.5004068]},"properties":{"is_in":"Cambodia","name":"ឃុំកំពង់ថ្ម","name:en":"Kampong Thmar","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0041847,11.7867958]},"properties":{"name":"ឃុំឫស្សីជ្រោយ","name:en":"Ruessei Chrouy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1219699,13.2459296]},"properties":{"name":"ឃុំដំដែក","name:en":"Dam Daek","name:km":"ឃុំដំដែក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0003567,13.6519904]},"properties":{"name":"ឃុំ ឃុនរាម","name:en":"Kuhn Ream Commune","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9854756,13.6162409]},"properties":{"name":"Chuk Sou","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4616136,12.4386835]},"properties":{"name":"ភូមិពន្លៃ","name:en":"Ponley","name:km":"ភូមិពន្លៃ","name:ru":"Понлэй","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7635896,10.5829106]},"properties":{"name":"បត់គគីរ","name:en":"Bat Kokir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9800047,11.8411311]},"properties":{"name":"ឃុំរកាកោង ទី ២","name:en":"Roka Kaong Pi","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9291344,11.9126469]},"properties":{"description":"ឃុំជាលា ស្រុកបាធាយ ខេត្តកំពង់ចាម","name":"ឃុំជាលា","name:en":"Khum Chealea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9686607,11.7367562]},"properties":{"name":"ឃុំព្រែកអញ្ចាញ","name:en":"Preaek Anhchan","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0897137,12.1293716]},"properties":{"name":"ចំបក់","name:en":"Chambak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1226345,12.1917674]},"properties":{"name":"ឃុំសំពងជ័យ","name:en":"Sampong Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0711401,12.0984948]},"properties":{"name":"ឃុំស្ដើងជ័យ","name:en":"Sdaeung Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9916011,12.6254849]},"properties":{"name":"ឃុំកកោះ","name:en":"Kakaoh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0126078,12.845689]},"properties":{"name":"Cheay Sampov","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7476926,12.7568948]},"properties":{"name":"Krachap","name:ru":"Кратяп","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6732034,11.0130714]},"properties":{"name":"ឃុំអង្គតាសោម","name:en":"Angk Ta Saom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4975002,12.9287496]},"properties":{"name":"ផ្សារព្រំ","name:en":"Phsar Prom","name:km":"ផ្សារព្រំ","name:th":"ซาร์พรม","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4581675,13.0358015]},"properties":{"name":"เทพนิมิตร","name:en":"Thep Nimit","name:th":"เทพนิมิตร","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7809777,13.4050136]},"properties":{"name":"Ta Seng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7882796,10.5360562]},"properties":{"name":"កោះខ្យង","name:en":"Kaoh Khyang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.2690367,11.9451152]},"properties":{"name":"ឃុំពាមជីកង","name:en":"Peam Chi Kang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7074123,11.2874239]},"properties":{"name":"ឃុំសូរភី","name:en":"Souphi","place":"village","wikidata":"Q19684949","wikipedia":"en:Sour Phi Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4451197,13.0830387]},"properties":{"name":"บ้านแหลม","name:en":"Ban Laem","name:th":"บ้านแหลม","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7295328,14.2402221]},"properties":{"name":"ឃុំស្រអែម","name:en":"Sra Aem","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1149588,13.3548382]},"properties":{"name":"Rovieng Tbong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4465797,13.0891615]},"properties":{"name":"Daung","name:en":"Daung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.274684,13.8073036]},"properties":{"name":"Mlu Prey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8515458,13.6969253]},"properties":{"name":"Sam Ang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.5612838,10.6655426]},"properties":{"name":"ឃុំទូកមាស","name:en":"Touk Meas","name:km":"ឃុំទូកមាស","name:ru":"Тоукмеах","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9587343,11.1624021]},"properties":{"name":"ឃុំព្រៃល្វា","name:en":"Prey Lvea","name:km":"ឃុំព្រៃល្វា","name:ru":"Прейлвеа","place":"village","wikidata":"Q19684912","wikipedia":"en:Prey Lvea Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9388905,12.1935507]},"properties":{"name":"កំពង់រាំង","name:en":"Kampong Reang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6983071,12.2502278]},"properties":{"name":"ប៉ើស","name:en":"Peus","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5466077,12.1411778]},"properties":{"name":"ឃុំកោះពីរ","name:en":"Koh Pir","name:zh":"Koh Pir岛-4.76km","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5446691,11.9446167]},"properties":{"name":"ស្រែសៀម","name:en":"Sre Siem","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6254787,11.914365]},"properties":{"name":"ឃុំជប់","name:en":"Chub","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7420154,11.8769066]},"properties":{"name":"ឃុំស្រឡប់","name:en":"Sralap","name:vi":"Sralap","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7823332,11.8286792]},"properties":{"name":"ឃុំកណ្ដោលជ្រុំ","name:en":"Kandol Chrum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.2761656,11.8252177]},"properties":{"name":"ខ្ជាយ","name:en":"Kcheay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3735014,11.9660489]},"properties":{"name":"Sre Romduol","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3987999,12.0347981]},"properties":{"name":"Kbal Trach","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.4037201,12.0169992]},"properties":{"name":"Kbal Chrum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4127089,12.2996807]},"properties":{"name":"ឃុំមេសរជ្រៃ","name:en":"Mesa Chrey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4246988,12.9018586]},"properties":{"name":"ទំរីង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4241624,12.9416177]},"properties":{"name":"Runteah village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2689562,12.8595665]},"properties":{"name":"Tippedey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3921456,10.5777516]},"properties":{"name":"Chamka Bei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1489974,12.9493748]},"properties":{"name":"Ta Nuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2232224,12.9520267]},"properties":{"name":"Sdey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2994331,12.9733858]},"properties":{"name":"Robas Thnung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4665532,13.3812769]},"properties":{"name":"Pratheat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1052855,14.0674658]},"properties":{"name:en":"Banteay Chhmar","name:km":"បន្ទាយឆ្មារ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6947347,14.4158008]},"properties":{"alt_name:en":"Ou Smach","name":"សង្កាត់អូរស្មាច់","name:en":"O Smach","name:km":"សង្កាត់អូរស្មាច់","name:th":"โอร์เสม็ด","place":"village","wikidata":"Q3347804"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0754431,13.4337501]},"properties":{"name":"អូរពងមាន់","name:en":"o pong morn","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5089573,11.313906]},"properties":{"name":"ឃុំ​ជីផាត","name:en":"Khum Chi Phat","name:fr":"Khum Chi Phat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.198871,14.3487113]},"properties":{"name":"บ้านช่องบก","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2813975,14.1617182]},"properties":{"name":"ឃុំគោកមន","name:en":"Kouk Moan","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9445408,12.9508636]},"properties":{"name":"Sala Vichey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3976054,13.0910779]},"properties":{"name":"ឃុំស្ពានត្នោត","name:en":"Spean Tnot","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.00841,13.3366983]},"properties":{"name":"រកាកំបុត","name:en":"Rokar Kambot","name:ko":"로카 캄봇","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8689959,12.7218056]},"properties":{"name":"រ៉ែដែក","name:en":"Rae daek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0919094,13.2657601]},"properties":{"name":"Kouk Kdouch","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9743124,12.8937241]},"properties":{"name":"Sdao","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0506744,12.9670247]},"properties":{"name":"Sneung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8957819,12.8348787]},"properties":{"name":"ត្រែង","name:en":"Traeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4756351,11.1867776]},"properties":{"name":"ឃុំ​អណ្ដូងទឹក","name:en":"Khum Andoung Teuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7168934,12.8128474]},"properties":{"name":"Pang Rolem","name:ru":"Пангролоэм","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.2126101,11.2772495]},"properties":{"name":"ឃុំត្រែងត្រយឹង","name:en":"Treng Trayeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7240956,11.6429433]},"properties":{"name":"ឃុំម្កាក់","name:en":"Makak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8190054,10.705124]},"properties":{"name":"ឃុំ​វាលរេញ","name:en":"Khum Veal Renh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.5373514,14.5937062]},"properties":{"CODE94X":"1703023","GLOBAL":"1","PRIORITY":"LOW","VILLAGE_ID":"11676","name":"ຕະເງົາ","name:en":"Tangao","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7180696,10.8916702]},"properties":{"name":"ភូមិកែវផុស","name:en":"Kaev Phos","name:km":"ភូមិកែវផុស","name:ru":"Каеупхох","place":"village","population":"6434","population:date":"2019","source:population":"NIS 2019"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0786729,11.7838444]},"properties":{"name":"ស្វាយ","name:en":"Svay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.1675107,12.4997551]},"properties":{"name":"Loa Ka","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3086604,12.4208076]},"properties":{"name":"Dak Dam","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.1152138,12.390241]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.4961717,14.072709]},"properties":{"name":"Samong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.2385483,12.4856164]},"properties":{"name":"Rolung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.710649,11.4619301]},"properties":{"name":"Kamlot","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9648882,11.572519]},"properties":{"admin_level":"6","description":"ឃុំអរិយក្សត្រ ស្រុកល្វាឯម ខេត្តកណ្ដាល","name":"ឃុំអរិយក្សត្រ","name:en":"Khum Arey Khsat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1185656,12.4291778]},"properties":{"name":"ឃុំបឹង","name:en":"Boeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0240734,12.6145205]},"properties":{"name":"Kampi","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2597071,12.9718213]},"properties":{"name":"Reang Kesey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2536138,13.0644715]},"properties":{"name":"ភូមិ​ស្វាយ​កាង","name:en":"Svey Kang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1370316,12.5672432]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2402743,13.077104]},"properties":{"name":"Chumnik","name:km":"ភូមិ​ជំនីក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1513138,12.9683015]},"properties":{"name":"Dong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2691768,13.0521673]},"properties":{"name":"ភូមិ​ពុក​ឆ្មារ","name:en":"Puk Chhma","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.838959,12.8504913]},"properties":{"name":"Chisang","name:ru":"Тьиньзанг","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7691538,12.8464936]},"properties":{"name":"Chrangleng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0138945,12.9316909]},"properties":{"name":"O Svay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1459257,12.8741996]},"properties":{"name":"Ahlong Krasang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1397292,12.897284]},"properties":{"name":"Sasar Pok","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2513564,12.9289052]},"properties":{"name":"Svay Cheat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2344302,13.0831945]},"properties":{"name":"Anlong Vil","name:en":"Anlong Vil","place":"village","wikidata":"Q4766146","wikipedia":"en:Anlong Vil"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.1285716,10.9283646]},"properties":{"name":"សំរោង","name:en":"Samraong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6279991,13.671686]},"properties":{"name":"អន្លង់ជ្រៃ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3016775,12.0550807]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1055178,13.6347275]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.0764758,14.074159]},"properties":{"name":"Taveng Krom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.9283975,13.9939243]},"properties":{"name":"Phak Nam","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.950504,13.8389613]},"properties":{"name":"Kalay","note":"Kreung Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8435094,13.9697158]},"properties":{"name":"Kachon","note":"Tampuan ethnic group","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7567483,13.5440346]},"properties":{"name":"Kouk Trach","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0932816,12.4331821]},"properties":{"name":"ត្រពាំងឈូក","name:en":"Tropeang Chhuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3364802,13.1238655]},"properties":{"name":"ឃុំកំពង់ក្ដី","name:en":"Kampong Kdei","name:km":"ឃុំកំពង់ក្ដី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3891161,12.643557]},"properties":{"name":"ព្រែកជីក","name:en":"Prek Chiik","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9401377,11.629877]},"properties":{"description":"ឃុំកោះឧកញ៉ាតី ស្រុកខ្សាច់កណ្ដាល ខេត្តកណ្ដាល","name":"ឃុំកោះឧកញ៉ាតី","name:en":"Khum Koh Oknha Tey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0238274,11.4634002]},"properties":{"name":"ឃុំកោះអន្លង់ចិន","name:en":"Koh Anlong Chen","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7465631,11.8703074]},"properties":{"name":"ឃុំលង្វែក","name:en":"Khum Longvek","name:vi":"Khum Longvek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.612606,13.7067063]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.6557404,13.7225427]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7375352,13.7693974]},"properties":{"addr:postcode":"1050909","name":"ថ្នល់បត់","name:en":"Thnal Bat","name:kh":"ថ្នល់បត់","name:th":"ถนัลบัต","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7029186,13.7621394]},"properties":{"addr:postcode":"1050902","alt_name":"Ban Nong Chan","name":"ជោគជ័យ","name:en":"Chouk Cheay","name:kh":"ជោគជ័យ","name:th":"โชคชัย","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.675905,13.7368524]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.6615107,13.6825003]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7318006,13.6190543]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7418428,13.6547125]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9738652,13.2112409]},"properties":{"is_in":"Cambodia","name":"Kampong Phluk","note":"floating village","place":"village","source":"survey, MapBox","wikidata":"Q6359305","wikipedia":"en:Kampong Phluk"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.912739,11.5916578]},"properties":{"addr:postcode":"120706","name":"សង្កាត់ទួលសង្កែទី១","name:en":"Sangkat Tuol Sangkae 1","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3834166,11.3608916]},"properties":{"name":"ភូមិក្រាំងសេរី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1685733,11.6582984]},"properties":{"name":"ជ្រៃ","name:en":"Chrey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3644811,11.5250969]},"properties":{"name":"Takao","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3610577,11.5610012]},"properties":{"name":"Tnal Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3759023,11.5509868]},"properties":{"name":"Po Puos","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3476581,11.2170797]},"properties":{"name":"Kompung Soeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8888806,13.4623161]},"properties":{"name":"Pong Teuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0269742,13.8020354]},"properties":{"name":"Srae Nouy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.3338,13.5042174]},"properties":{"name":"บ้านคลองหว้า","name:en":"Ban Khlong Wa","name:th":"บ้านคลองหว้า","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6645152,12.171435]},"properties":{"name":"Prey Khmer","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.9747355,13.6079494]},"properties":{"name":"La Bang Pir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.10717,12.3320015]},"properties":{"name":"ឃុំទ្រៀល","name:en":"Triel","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9552842,12.7077462]},"properties":{"name:en":"Chamlong koury village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.27274800000001,10.6660696]},"properties":{"name":"ភូមិកោះតូច","name:en":"Koh Toch Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0719723,11.4609776]},"properties":{"name":"កោះ​ស្រឡៅ","name:en":"Kaoh Sralau","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.0010124,13.8173761]},"properties":{"name":"Tribal mirror","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.7920068,13.9525037]},"properties":{"fixme":"village name needed","name":"Loatian Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.9080583,14.0296378]},"properties":{"name":"Tribal","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.0401827,13.0760183]},"properties":{"name":"ភូមិរង្សី","name:en":"Reangsey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.0191702,12.9994581]},"properties":{"name":"ភូមិទួល","name:en":"Tuol","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.0044074,13.0194503]},"properties":{"name":"ភូមិមានជ័យ","name:en":"Mean Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9865582,10.9647821]},"properties":{"name":"ភូមិព្រែកដា","name:en":"Preaek Da","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8322133,10.8865424]},"properties":{"description":"ឃុំអង្កាញ់ ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំអង្កាញ់","name:en":"Khum Angkanh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8309913,10.8576098]},"properties":{"description":"ឃុំអង្គខ្នុរ ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំអង្គខ្នុរ","name:en":"Khum Ang Khnor","place":"village","wikidata":"Q19684979","wikipedia":"en:Angk Khnor Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7983052,10.8059315]},"properties":{"description":"ឃុំជីខ្មា ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំជីខ្មា","name:en":"Khum Chi Khma","place":"village","wikidata":"Q19684765","wikipedia":"en:Chi Khma Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7824997,10.8426624]},"properties":{"description":"ឃុំប្រាំបីមុំ ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំប្រាំបីមុំ","name:en":"Khum Prambei Mum","place":"village","wikidata":"Q19684833","wikipedia":"en:Prambei Mum Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7802661,10.8941031]},"properties":{"description":"ឃុំព្រៃស្លឹក ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំព្រៃស្លឹក","name:en":"Khum Prey Sloek","place":"village","wikidata":"Q19684907","wikipedia":"en:Prey Sloek Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7506177,10.9333266]},"properties":{"description":"ឃុំរនាម ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំរនាម","name:en":"Khum Roneam","place":"village","wikidata":"Q19684908","wikipedia":"en:Roneam Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8856448,10.9372704]},"properties":{"description":"ឃុំសំបួរ ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំសំបួរ","name:en":"Khum Sambuor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7513378,10.7978826]},"properties":{"description":"ឃុំសន្លុង ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំសន្លុង","name:en":"Khum Sanlung","place":"village","wikidata":"Q19684939","wikipedia":"en:Sanlong Commune (Treang District)"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8364855,10.8004948]},"properties":{"description":"ឃុំស្មោង ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំស្មោង","name:en":"Khum Smaong","place":"village","wikidata":"Q19684981","wikipedia":"en:Smaong Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8292648,10.9572218]},"properties":{"description":"ឃុំស្រង៉ែ ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំស្រង៉ែ","name:en":"Khum Srangae","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.810425,10.9097849]},"properties":{"description":"ឃុំធ្លក ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំធ្លក","name:en":"Khum Thlok","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8368503,10.829381]},"properties":{"description":"ឃុំត្រឡាច ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំត្រឡាច","name:en":"Khum Tralach","place":"village","wikidata":"Q19684799","wikipedia":"en:Tralach Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7408709,10.8609481]},"properties":{"description":"ឃុំអង្គកែវ ស្រុកទ្រាំង ខេត្តតាកែវ","name":"ឃុំអង្គកែវ","name:en":"Khum Angk Kaev","place":"village","wikidata":"Q19684980","wikipedia":"en:Angk Kev Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6187095,10.5085901]},"properties":{"name":"ភូមិអុង","name:en":"Ong","name:km":"ភូមិអុង","name:th":"ออง","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8075184,11.0673763]},"properties":{"name":"ភូមិធ្មា","name:en":"Thmea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7929146,11.6551695]},"properties":{"addr:postcode":"121102","description":"សង្កាត់ពញាពន់ ខណ្ឌព្រែកព្នៅ រាជធានីភ្នំពេញ","name":"សង្កាត់ពញាពន់","name:en":"Sangkat Ponhea Pon","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7648233,11.6333603]},"properties":{"addr:postcode":"121105","name":"សង្កាត់ពន្សាំង","name:en":"Sangkat Ponsang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7456644,11.5691298]},"properties":{"addr:postcode":"120904","description":"សង្កាត់ឪឡោក ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ឪឡោក","name:en":"Sangkat Ovlaok","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7696444,11.5789992]},"properties":{"addr:postcode":"120903","alt_name":"Snaor","name":"សង្កាត់ស្នោ","name:en":"Sangkat Snao","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7398177,11.2638718]},"properties":{"name":"ឃុំកុមាររាជា","name:en":"Khum Komar Reachea","place":"village","wikidata":"Q19684668","wikipedia":"en:Komar Reachea Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.764363,11.3141446]},"properties":{"name":"ឃុំលំពង់","name:en":"Khum Lumpong","place":"village","wikidata":"Q19684940","wikipedia":"en:Lumpong Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9004929,11.3281258]},"properties":{"name":"ឃុំពត់សរ","name:en":"Khum Pot Sar","place":"village","wikidata":"Q19684866","wikipedia":"en:Pot Sar Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0212672,11.306256]},"properties":{"description":"ស្រុកស្អាង ខេត្តតាកែវ","name":"ឃុំទឹកវិល","name:en":"Khum Teuk Vil","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0037946,11.3613991]},"properties":{"name":"ភូមិព្រែករុន","name:en":"Phum Preaek Run","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0508747,11.3174496]},"properties":{"name":"ឃុំកោះខ្សាច់ទន្លា","name:en":"Khum Koh Khsach Tonlea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4460679,10.4360597]},"properties":{"description":"ភូមិថ្កូវ ឃុំឫស្សីស្រុកខាងលិច ស្រុកកំពង់ត្រាច ខេត្តកំពត","name":"ភូមិថ្កូវ","name:en":"Phum Thkov","name:vi":"Phum Thkov","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9359091,11.5509405]},"properties":{"addr:postcode":"120101","name":"សង្កាត់ទន្លេបាសាក់","name:en":"Sangkat Tonle Bassac","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9178497,11.547771]},"properties":{"addr:postcode":"120104","name":"សង្កាត់បឹងកេងកងទី ៣","name:en":"Sangkat Boeng Keng Kang Ti Bei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9184799,11.5529917]},"properties":{"addr:postcode":"120103","name":"សង្កាត់បឹងកេងកងទី ២","name:en":"Sangkat Boeng Keng Kang Ti Pir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9249988,11.5504554]},"properties":{"addr:postcode":"120102","name":"សង្កាត់បឹងកេងកងទី ១","name:en":"Sangkat Boeng Keng Kang Ti Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9133669,11.5532352]},"properties":{"addr:postcode":"120105","name":"សង្កាត់អូឡាំពិក","name:en":"Sangkat Olympic","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9062018,11.5543617]},"properties":{"addr:postcode":"120107","name":"សង្កាត់ទួលស្វាយព្រៃទី ២","name:en":"Sangkat Tuol Svay Prey Ti Pir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9049028,11.54573]},"properties":{"addr:postcode":"120108","name":"សង្កាត់ទំនប់ទឹក","name:en":"Sangkat Tomnop Teuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9171345,11.5402098]},"properties":{"addr:postcode":"120109","name":"សង្កាត់ទួលទំពូងទី ១","name:en":"Sangkat Tuol Tumpung Ti Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.911736,11.5390817]},"properties":{"addr:postcode":"120110","name":"សង្កាត់ទួលទំពូងទី ២","name:en":"Sangkat Tuol Tumpung Ti Pir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.922449,11.5406943]},"properties":{"addr:postcode":"120111","name":"សង្កាត់បឹងត្របែក","name:en":"Sangkat Boeng Trabaek","name:km":"សង្កាត់បឹងត្របែក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9214864,11.5708489]},"properties":{"addr:postcode":"120201","name":"សង្កាត់ផ្សារថ្មីទី ១","name:en":"Sangkat Phsar Thmey Ti Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9194883,11.5690196]},"properties":{"addr:postcode":"120202","name":"សង្កាត់ផ្សារថ្មីទី ២","name:en":"Sangkat Phsar Thmey Ti Pir","name:km":"សង្កាត់ផ្សារថ្មីទី ២","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.923734,11.5664641]},"properties":{"addr:postcode":"120203","name":"សង្កាត់ផ្សារថ្មីទី ៣","name:en":"Sangkat Phsar Thmey Ti Bei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9218237,11.5606982]},"properties":{"addr:postcode":"120204","name":"សង្កាត់បឹងរាំង","name:en":"Sangkat Boeng Reang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9288938,11.5690461]},"properties":{"addr:postcode":"120205","name":"សង្កាត់ផ្សារកណ្ដាលទី ១","name:en":"Sangkat Phsar Kandal Ti Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9267005,11.5677477]},"properties":{"addr:postcode":"120206","name":"សង្កាត់ផ្សារកណ្ដាលទី ២","name:en":"Sangkat Phsar Kandal Ti Pir","name:kh":"សង្កាត់ផ្សារកណ្ដាលទី ២","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9310313,11.5589062]},"properties":{"addr:postcode":"120207","name":"សង្កាត់ចតុមុខ","name:en":"Sangkat Chaktomuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9318758,11.5635454]},"properties":{"addr:postcode":"120208","name":"សង្កាត់ជ័យជំនះ","name:en":"Sangkat Chey Chumneah","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9261668,11.5713455]},"properties":{"addr:postcode":"120209","name":"សង្កាត់ផ្សារចាស់","name:en":"Sangkat Phsar Chas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9198536,11.5837416]},"properties":{"addr:postcode":"120210","name":"សង្កាត់ស្រះចក","name:en":"Sangkat Srah Chak","name:km":"សង្កាត់ស្រះចក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9235581,11.5747464]},"properties":{"addr:postcode":"120211","name":"សង្កាត់វត្តភ្នំ","name:en":"Sangkat Wat Phnom","name:km":"សង្កាត់វត្តភ្នំ","name:th":"แขวงวัดพนม","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8778887,11.4150977]},"properties":{"name":"ភូមិក្រសាំង","name:en":"Phum Krasang","name:km":"ភូមិក្រសាំង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9172429,11.5636923]},"properties":{"addr:postcode":"120301","name":"សង្កាត់អូរឬស្សីទី ១","name:en":"Sangkat Orussey Ti Muoy","name:km":"សង្កាត់អូរឬស្សីទី ១","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9138375,11.5630465]},"properties":{"addr:postcode":"120302","name":"សង្កាត់អូរឬស្សីទី ២","name:en":"Sangkat Orussey Ti Pir","name:km":"សង្កាត់អូរឬស្សីទី ២","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9158876,11.5654018]},"properties":{"addr:postcode":"120303","name":"សង្កាត់អូរឬស្សីទី ៣","name:en":"Sangkat Orussey Ti Bei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9180714,11.5656046]},"properties":{"addr:postcode":"120304","name":"សង្កាត់អូរឬស្សីទី ៤","name:en":"Sangkat Orussey Ti Buon","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9171913,11.5694231]},"properties":{"addr:postcode":"120305","name":"សង្កាត់មនោរម្យ","name:en":"Sangkat Monourom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9113682,11.5691548]},"properties":{"addr:postcode":"120306","name":"សង្កាត់មិត្តភាព","name:en":"Sangkat Mittapheap","name:km":"សង្កាត់មិត្តភាព","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9094089,11.5624743]},"properties":{"addr:postcode":"120307","name":"សង្កាត់វាលវង់","name:en":"Sangkat Veal Vong","name:km":"សង្កាត់វាលវង់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9173953,11.5595067]},"properties":{"addr:postcode":"120308","name":"សង្កាត់បឹងព្រលឹត","name:en":"Sangkat Boeng Prolit","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9029362,11.5690209]},"properties":{"addr:postcode":"120401","name":"សង្កាត់ផ្សារដេប៉ូទី ១","name:en":"Sangkat Phsar Depou Ti Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9031949,11.5656231]},"properties":{"addr:postcode":"120402","name":"សង្កាត់ផ្សារដេប៉ូទី ២","name:en":"Sangkat Phsar Depou Ti Pir","name:km":"សង្កាត់ផ្សារដេប៉ូទី ២","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.904571,11.5626152]},"properties":{"addr:postcode":"120403","name":"សង្កាត់ផ្សារដេប៉ូទី ៣","name:en":"Sangkat Phsar Depou Ti Bei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8940296,11.5674848]},"properties":{"addr:postcode":"120404","name":"សង្កាត់ទឹកល្អក់ទី ១","name:en":"Sangkat Teuk L'ak Ti Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8955587,11.5637832]},"properties":{"addr:postcode":"120405","name":"សង្កាត់ទឹកល្អក់ទី ២","name:en":"Sangkat Teuk L'ak Ti Pir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.891708,11.5574506]},"properties":{"addr:postcode":"120406","name":"សង្កាត់ទឹកល្អក់ទី ៣","name:en":"Sangkat Teuk L'ak Ti Bei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8974246,11.5829536]},"properties":{"addr:postcode":"120407","name":"សង្កាត់បឹងកក់ទី ១","name:en":"Sangkat Boeung Kak Ti Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8919929,11.5764495]},"properties":{"addr:postcode":"120408","name":"សង្កាត់បឹងកក់ទី ២","name:en":"Sangkat Boeung Kak Ti Pir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9042409,11.5578276]},"properties":{"addr:postcode":"120409","name":"សង្កាត់ផ្សារដើមគរ","name:en":"Sangkat Phsar Daeum Kor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8979144,11.5533121]},"properties":{"addr:postcode":"120410","name":"សង្កាត់បឹងសាឡាង","name:en":"Sangkat Boeung Salang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8863087,11.4960888]},"properties":{"addr:postcode":"120501","description":"សង្កាត់ដង្កោ ខណ្ឌដង្កោ រាជធានីភ្នំពេញ","name":"សង្កាត់ដង្កោ","name:en":"Sangkat Dangkao","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8236934,11.476319]},"properties":{"addr:postcode":"120502","description":"សង្កាត់ពងទឹក ខណ្ឌដង្កោ រាជធានីភ្នំពេញ","name":"សង្កាត់ពងទឹក","name:en":"Sangkat Pong Teuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8397681,11.475629]},"properties":{"addr:postcode":"120503","description":"សង្កាត់ព្រៃវែង ខណ្ឌដង្កោ រាជធានីភ្នំពេញ","name":"សង្កាត់ព្រៃវែង","name:en":"Sangkat Prey Veng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8618029,11.4964374]},"properties":{"addr:postcode":"120504","description":"សង្កាត់ព្រៃស ខណ្ឌដង្កោ រាជធានីភ្នំពេញ","name":"សង្កាត់ព្រៃស","name:en":"Sangkat Prey Sa","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7923055,11.4690007]},"properties":{"addr:postcode":"120506","description":"សង្កាត់ប្រទះឡាង ខណ្ឌដង្កោ រាជធានីភ្នំពេញ","name":"សង្កាត់ប្រទះឡាង","name:en":"Sangkat Prateah Lang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9022203,11.4462201]},"properties":{"addr:postcode":"120510","name":"សង្កាត់ព្រែកកំពឹស","name:en":"Sangkat Prek Kampeus","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8727746,11.4357024]},"properties":{"addr:postcode":"120511","description":"សង្កាត់រលួស ខណ្ឌដង្កោ រាជធានីភ្នំពេញ","name":"សង្កាត់រលួស","name:en":"Sangkat Roluoh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.874518,11.4628105]},"properties":{"addr:postcode":"120512","description":"សង្កាត់ស្ពានថ្ម ខណ្ឌដង្កោ រាជធានីភ្នំពេញ","name":"សង្កាត់ស្ពានថ្ម","name:en":"Sangkat Spean Thmor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8567289,11.4392438]},"properties":{"addr:postcode":"120513","description":"សង្កាត់ទៀន ខណ្ឌដង្កោ រាជធានីភ្នំពេញ","name":"សង្កាត់ទៀន","name:en":"Sangkat Tien","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8922394,11.5343626]},"properties":{"addr:postcode":"120604","description":"សង្កាត់ស្ទឹងមានជ័យ ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ស្ទឹងមានជ័យទី២","name:en":"Sangkat Stueng Mean Chey 2","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9058902,11.5334694]},"properties":{"addr:postcode":"120606","description":"សង្កាត់បឹងទំពន់ ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់បឹងទំពុនទី១","name:en":"Sangkat Boeng Tumpun 1","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9470688,11.5066584]},"properties":{"addr:postcode":"121204","description":"សង្កាត់ព្រែកប្រា ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ព្រែកប្រា","name:en":"Sangkat Prek Pra","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9385287,11.5298382]},"properties":{"addr:postcode":"121201","description":"សង្កាត់ច្បារអំពៅទី ១ ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ច្បារអំពៅទី ១","name:en":"Sangkat Chbar Ampov Ti Muoy","name:km":"សង្កាត់ច្បារអំពៅទី ១","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9381036,11.5360096]},"properties":{"addr:postcode":"121202","description":"សង្កាត់ច្បារអំពៅទី ២ ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ច្បារអំពៅទី ២","name:en":"Sangkat Chbar Ampov Ti Pir","name:km":"សង្កាត់ច្បារអំពៅទី ២","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9302511,11.5204875]},"properties":{"addr:postcode":"120601","description":"សង្កាត់ចាក់អង្រែលើ ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ចាក់អង្រែលើ","name:en":"Sangkat Chak Angrae Leu","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9354496,11.5041187]},"properties":{"addr:postcode":"120602","description":"សង្កាត់ចាក់អង្រែក្រោម","name":"សង្កាត់ចាក់អង្រែក្រោម","name:en":"Sangkat Chak Angrae Kraom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9537196,11.5262469]},"properties":{"addr:postcode":"121203","description":"សង្កាត់និរោធ ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់និរោធ","name:en":"Sangkat Niroth","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0102142,11.5036877]},"properties":{"addr:postcode":"121207","description":"សង្កាត់ក្បាលកោះ ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ក្បាលកោះ","name:en":"Sangkat Kbal Koh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9886913,11.5289849]},"properties":{"addr:postcode":"121206","description":"សង្កាត់ព្រែកឯង ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ព្រែកឯង","name:en":"Sangkat Prek Aeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9820909,11.4703998]},"properties":{"addr:postcode":"121208","description":"សង្កាត់ព្រែកថ្មី ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ព្រែកថ្មី","name:en":"Sangkat Prek Thmei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9733348,11.5310124]},"properties":{"addr:postcode":"121205","description":"សង្កាត់វាលស្បូវ ខណ្ឌមានជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់វាលស្បូវ","name:en":"Sangkat Veal Sbov","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6368255,12.2277932]},"properties":{"description":"ភូមិត្រោកកណ្ដាល ឃុំស្រែថ្មី ស្រុករលាប្អៀរ ខេត្តកំពង់ឆ្នាំង","name":"ភូមិត្រោកកណ្ដាល","name:en":"Phum Traok Kandal","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6337685,12.2251853]},"properties":{"description":"ភូមិត្រោកលិច ឃុំស្រែថ្មី ស្រុករលាប្អៀរ ខេត្តកំពង់ឆ្នាំង","name":"ភូមិត្រោកលិច","name:en":"Phum Traok Lich","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6392325,12.2283249]},"properties":{"description":"ភូមិត្រោកកើត ឃុំស្រែថ្មី ស្រុករលាប្អៀរ ខេត្តកំពង់ឆ្នាំង","name":"ភូមិត្រោកកើត","name:en":"Phum Traok Kaeut","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8693076,11.6465889]},"properties":{"addr:postcode":"120701","description":"សង្កាត់ស្វាយប៉ាក ខណ្ឌឬស្សីកែវ រាជធានីភ្នំពេញ","name":"សង្កាត់ស្វាយប៉ាក","name:en":"Sangkat Svay Pak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9115177,11.6059827]},"properties":{"addr:postcode":"120703","description":"សង្កាត់ឬស្សីកែវ ខណ្ឌឬស្សីកែវ រាជធានីភ្នំពេញ","name":"សង្កាត់ឬស្សីកែវ","name:en":"Sangkat Russey Keo","name:km":"សង្កាត់ឬស្សីកែវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8836232,11.6324186]},"properties":{"addr:postcode":"120704","description":"សង្កាត់ច្រាំងចំរេះ ១ ខណ្ឌឬស្សីកែវ រាជធានីភ្នំពេញ","name":"សង្កាត់ច្រាំងចំរេះ ១","name:en":"Sangkat Chrang Chamreh Muoy","name:km":"សង្កាត់ច្រាំងចំរេះ ១","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8920545,11.6228555]},"properties":{"addr:postcode":"120705","description":"សង្កាត់ច្រាំងចំរេះ ២ ខណ្ឌឬស្សីកែវ រាជធានីភ្នំពេញ","name":"សង្កាត់ច្រាំងចំរេះ ២","name:en":"Sangkat Chrang Chamreh Pir","name:km":"សង្កាត់ច្រាំងចំរេះ ២","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9350085,11.5895042]},"properties":{"addr:postcode":"121001","description":"សង្កាត់ជ្រោយចង្វារ ខណ្ឌជ្រោយចង្វារ រាជធានីភ្នំពេញ","loc_name":"Chroy Changvar","name":"សង្កាត់ជ្រោយចង្វា","name:en":"Sangkat Chroy Changvar","name:km":"សង្កាត់ជ្រោយចង្វា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9170732,11.6456062]},"properties":{"addr:postcode":"121002","description":"សង្កាត់ព្រែកលៀប ខណ្ឌជ្រោយចង្វារ រាជធានីភ្នំពេញ","name":"សង្កាត់ព្រែកលៀប","name:en":"Sangkat Prek Liep","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9363037,11.6647479]},"properties":{"addr:postcode":"121004","description":"សង្កាត់កោះដាច់ ខណ្ឌជ្រោយចង្វារ រាជធានីភ្នំពេញ","name":"សង្កាត់កោះដាច់","name:en":"Sangkat Koh Dach","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8593363,11.6222282]},"properties":{"addr:postcode":"120803","description":"សង្កាត់ឃ្មួញ ខណ្ឌសែនសុក រាជធានីភ្នំពេញ","name":"សង្កាត់ឃ្មួញ","name:en":"Sangkat Khmuonh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8765566,11.5831082]},"properties":{"addr:postcode":"120801","description":"សង្កាត់ភ្នំពេញថ្មី ខណ្ឌសែនសុខ រាជធានីភ្នំពេញ","name":"សង្កាត់ភ្នំពេញថ្មី","name:en":"Sangkat Phnom Penh Thmei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8774145,11.5643021]},"properties":{"addr:postcode":"120802","description":"សង្កាត់​ទឹកថ្លា ខណ្ឌសែនសុខ រាជធានីភ្នំពេញ","name":"សង្កាត់ទឹកថ្លា","name:en":"Sangkat Teuk Thla","name:km":"សង្កាត់ទឹកថ្លា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8552509,11.6653243]},"properties":{"addr:postcode":"121101","description":"សង្កាត់ព្រែកព្នៅ ខណ្ឌព្រែកព្នៅ រាជធានីភ្នំពេញ","name":"សង្កាត់ព្រែកព្នៅ","name:en":"Sangkat Prek Pnov","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8351562,11.6854873]},"properties":{"addr:postcode":"121103","description":"សង្កាត់សំរោង ខណ្ឌព្រែកព្នៅ រាជធានីភ្នំពេញ","name":"សង្កាត់សំរោង","name:en":"Sangkat Samraong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.795792,11.553532]},"properties":{"addr:postcode":"120902","description":"សង្កាត់ត្រពាំងក្រសាំង ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ត្រពាំងក្រសាំង","name:en":"Sangkat Trapeang Krosang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8184632,11.5992797]},"properties":{"addr:postcode":"121104","description":"សង្កាត់គោករកា ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់គោករកា","name:en":"Sangkat Kouk Roka","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8050835,11.4940305]},"properties":{"addr:postcode":"120908","description":"សង្កាត់ភ្លើងឆេះរទេះ ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ភ្លើងឆេះរទេះ","name:en":"Sangkat Phleung Chheh Roteh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8499764,11.5543778]},"properties":{"addr:postcode":"120912","description":"សង្កាត់កាកាប ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់កាកាបទី១","name:en":"Sangkat Kakab 1","name:km":"សង្កាត់កាកាបទី១","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8086026,11.5751626]},"properties":{"addr:postcode":"120901","description":"សង្កាត់សំរោងក្រោម ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់សំរោងក្រោម","name:en":"Sangkat Samraong Kraom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8379604,11.5857656]},"properties":{"addr:postcode":"120804","description":"សង្កាត់ក្រាំងធ្នង់ ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់ក្រាំងធ្នង់","name:en":"Sangkat Krang Thnong","name:km":"សង្កាត់ក្រាំងធ្នង់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.771594,11.4767247]},"properties":{"addr:postcode":"120907","description":"សង្កាត់បឹងធំ ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់បឹងធំ","name:en":"Sangkat Beong Thom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7746396,11.5416595]},"properties":{"addr:postcode":"120905","description":"សង្កាត់កំបូល ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់កំបូល","name:en":"Sangkat Kamboul","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7833627,11.5061345]},"properties":{"addr:postcode":"120906","description":"សង្កាត់កន្ទោក ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"សង្កាត់កន្ទោក","name:en":"Sangkat Kantok","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.827142,11.525433]},"properties":{"addr:postcode":"12091516","description":"ភូមិព្រៃព្រីងខាងត្បូង១ សង្កាត់ចោមចៅទី២ ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ","name":"ភូមិព្រៃព្រីងខាងត្បូង១","name:en":"Prey Pring Khang Tboung 1","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0177392,13.5104093]},"properties":{"name":"ឃុំបន្ទាយនាង","name:en":"Khum Banteay Neang","place":"village","wikidata":"Q4857205"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9725752,13.5262537]},"properties":{"name":"ឃុំបត់ត្រង់","name:en":"Khum Bat Trang","place":"village","wikidata":"Q4868480"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8923659,13.4569526]},"properties":{"name":"ឃុំចំណោម","name:en":"Khum Chamnaom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1305496,13.459291]},"properties":{"name":"ឃុំគោកបល្ល័ង្គ","name:en":"Khum Kok Ballang","place":"village","wikidata":"Q4929907"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1020792,13.5497698]},"properties":{"name":"ឃុំគយម៉ែង","name:en":"Khum Koy Maeng","place":"village","wikidata":"Q6435110"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0224164,13.4456328]},"properties":{"name":"ឃុំអូរប្រាសាទ","name:en":"Khum Ou Prasat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0284867,13.4104346]},"properties":{"name":"ឃុំភ្នំតូច","name:en":"Khum Phnom Touch","place":"village","wikidata":"Q7186592"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9464501,13.4880225]},"properties":{"name":"ឃុំរហាត់ទឹក","name:en":"Khum Rohat Teuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0346272,13.5470075]},"properties":{"name":"ឃុំឫស្សីក្រោក","name:en":"Khum Russey Kraok","place":"village","wikidata":"Q7377864"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2106465,13.4371027]},"properties":{"name":"ឃុំសំបួរ","name:en":"Khum Sambuor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8381483,13.4098467]},"properties":{"name":"ឃុំសឿ","name:en":"Khum Soea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0920226,13.4937096]},"properties":{"name":"ឃុំស្រះរាំង","name:en":"Khum Srah Reang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1132702,13.5211864]},"properties":{"name":"ឃុំតាឡំ","name:en":"Khum Ta Lorm","place":"village","wikidata":"Q7672759"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4052918,13.8918216]},"properties":{"name":"ឃុំណាំតៅ","name:en":"Khum Nam Tau","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3572299,13.8401992]},"properties":{"name":"ឃុំប៉ោយចារ","name:en":"Khum Paoy Char","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2139868,13.7927097]},"properties":{"name":"ឃុំពន្លៃ","name:en":"Khum Ponley","place":"village","wikidata":"Q7227876"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.399776,13.711684]},"properties":{"name":"ឃុំស្ពានស្រែង","name:en":"Khum Spean Sraeng","place":"village","wikidata":"Q7574359"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3192528,13.7275991]},"properties":{"name":"ឃុំស្រះជីក","name:en":"Khum Srah Chik","place":"village","wikidata":"Q7582383"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3828426,13.7704548]},"properties":{"name":"ឃុំភ្នំដី","name:en":"Khum Phnom Dei","place":"village","wikidata":"Q17064166"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0957003,13.6225756]},"properties":{"name":"ឃុំឈ្នួរមានជ័យ","name:en":"Khum Chnuor Mean Chey","place":"village","wikidata":"Q5094917"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1681942,13.6638149]},"properties":{"name":"ឃុំជប់វារី","name:en":"Khum Chop Vari","place":"village","wikidata":"Q5103455"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2928573,13.5387145]},"properties":{"name":"ឃុំភ្នំលៀប","name:en":"Khum Phnom Liep","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.364093,13.449037]},"properties":{"name":"ឃុំប្រាសាទ","name:en":"Khum Prasat","place":"village","wikidata":"Q7238483"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1654096,13.5754057]},"properties":{"name":"ឃុំព្រះនេត្រព្រះ","name:en":"Khum Preah Netr Preah","place":"village","wikidata":"Q7239321"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2445687,13.6248637]},"properties":{"name":"ឃុំរហាល","name:en":"Khum Rohal","place":"village","wikidata":"Q7359655"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2210337,13.7086274]},"properties":{"name":"ឃុំទានកាំ","name:en":"Khum Tean Kam","place":"village","wikidata":"Q7691693"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3785291,13.6310672]},"properties":{"name":"ឃុំទឹកជោរ","name:en":"Khum Teuk Chor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0792732,13.6969907]},"properties":{"name":"ឃុំបុស្បូវ","name:en":"Khum Bosbouv","place":"village","wikidata":"Q4947099"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.5688112,11.0512407]},"properties":{"name":"ឃុំត្រពាំងធំខាងជើង","name:en":"Khum Trapeang Thom Khang Cheung","place":"village","wikidata":"Q19684798","wikipedia":"en:Trapeang Thum Khang Cheung Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6877602,11.6162588]},"properties":{"name":"Kamchay Mear Cheung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8895714,13.6441455]},"properties":{"name":"ឃុំចង្ហា","name:en":"Khum Chongha","place":"village","wikidata":"Q5071965"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.782981,13.6099675]},"properties":{"name":"ឃុំកូប","name:en":"Khum Koup","place":"village","wikidata":"Q6434448"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7572885,13.5655609]},"properties":{"name":"ឃុំគុត្តសត","name:en":"Khum Kuttasat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8328438,13.5304714]},"properties":{"name":"ឃុំសំរោង","name:en":"Khum Samraong","place":"village","wikidata":"Q7410284"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.822933,13.6496689]},"properties":{"name":"ឃុំសូភី","name:en":"Khum Souphi","place":"village","wikidata":"Q7565061"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8351942,13.7273103]},"properties":{"name":"ឃុំសិង្ហ","name:en":"Khum Soengh","place":"village","wikidata":"Q7553520"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7378202,13.7374]},"properties":{"name":"ឃុំអូរបីជាន់","name:en":"Khum Ou Bei Choan","place":"village","wikidata":"Q7110111"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5854871,13.6424227]},"properties":{"name":"សង្កាត់ផ្សារកណ្ដាល","name:en":"Sangkat Phsar Kandal","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7003994,13.6315654]},"properties":{"name":"សង្កាត់និមិត្ត","name:en":"Sangkat Nimit","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9648068,13.6175852]},"properties":{"name":"សង្កាត់កំពង់ស្វាយ","name:en":"Sangkat Kampong Svay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0368099,13.5780457]},"properties":{"name":"សង្កាត់កោះពងសត្វ","name:en":"Sangkat Koh Pong Sat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9620529,13.6708318]},"properties":{"name":"សង្កាត់ម្កាក់","name:en":"Sangkat Mkak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9315361,13.5575298]},"properties":{"name":"សង្កាត់អូរអំបិល","name:en":"Sangkat Ou Amboel","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0487352,13.6174063]},"properties":{"name":"សង្កាត់ភ្នៀត","name:en":"Sangkat Pniet","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9863153,13.5828301]},"properties":{"name":"សង្កាត់ព្រះពន្លា","name:en":"Sangkat Preah Ponlea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9081956,13.5819882]},"properties":{"name":"សង្កាត់ទឹកថ្លា","name:en":"Sangkat Teuk Thla","place":"village","wikidata":"Q7851377"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.935528,13.9951214]},"properties":{"name":"ឃុំគោករមៀត","name:en":"Khum Kok Romiet","place":"village","wikidata":"Q6434525"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0523805,13.9414476]},"properties":{"name":"ឃុំថ្មពួក","name:en":"Khum Thmor Puok","place":"village","wikidata":"Q11013989"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1480637,13.8879594]},"properties":{"name":"ឃុំគោកកឋិន","name:en":"Khum Kok Kathen","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0261071,13.9806406]},"properties":{"name":"ឃុំគំរូ","name:en":"Khum Komru","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0612033,13.8893431]},"properties":{"name":"ឃុំភូមិថ្មី","name:en":"Khum Phum Thmei","place":"village","wikidata":"Q7188345"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1549275,13.817701]},"properties":{"name:en":"Khum Phkoam","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1195475,13.759706]},"properties":{"name":"ឃុំសារង្គ","name:en":"Khum Sarongk","place":"village","wikidata":"Q7424474"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8419408,13.7742935]},"properties":{"name":"ឃុំស្លក្រាម","name:en":"Khum Slorkram","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9628788,13.8054986]},"properties":{"name":"ឃុំស្វាយចេក","name:en":"Khum Svay Chek","place":"village","wikidata":"Q7651773"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9698263,13.7699563]},"properties":{"name":"ឃុំតាបែន","name:en":"Khum Ta Baen","place":"village","wikidata":"Q7672743"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0472572,13.7643945]},"properties":{"name":"ឃុំតាផូ","name:en":"Khum Ta Phou","place":"village","wikidata":"Q10947588"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9471226,13.8899882]},"properties":{"name":"ឃុំទ្រាស","name:en":"Khum Treas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9883113,13.8035946]},"properties":{"name":"ឃុំរលួស","name:en":"Khum Roluos","place":"village","wikidata":"Q2399527"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.3680025,13.5131183]},"properties":{"name":"ឃុំបឹងបេង","name:en":"Khum Boeng Beng","place":"village","wikidata":"Q4937171"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.3657833,13.5687169]},"properties":{"name":"ឃុំម៉ាឡៃ","name:en":"Malai","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4317522,13.5240854]},"properties":{"name":"ឃុំអូរស្រឡៅ","name:en":"Khum Ou Srolav","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5017998,13.5274362]},"properties":{"name":"ឃុំអូរសំព័រ","name:en":"Khum Ousampoa","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5938233,13.5531144]},"properties":{"name":"ឃុំទួលពង្រ","name:en":"Khum Tuol Pongro","place":"village","wikidata":"Q7853416"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7252954,13.5068435]},"properties":{"name":"ឃុំតាគង់","name:en":"Khum Ta Kong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1595196,12.8966496]},"properties":{"name":"ឃុំកន្ទឺ១","name:en":"Khum Kantoe Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1153725,12.9360308]},"properties":{"name":"ឃុំកន្ទឺ២","name:en":"Khum Kanloe Pir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1821759,12.9769769]},"properties":{"name":"ឃុំបាយដំរាំ","name:en":"Khum Bay Damroam","place":"village","wikidata":"Q4873986"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1462857,12.9968151]},"properties":{"name":"ឃុំឈើទាល","name:en":"Khum Chheuteal","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.071575,12.8546995]},"properties":{"name":"ឃុំចែងមានជ័យ","name:en":"Khum Chaeng Mean Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0816503,13.0315904]},"properties":{"name":"ឃុំភ្នំសំពៅ","name:en":"Khum Phnom Sampov","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0297908,12.9583887]},"properties":{"name":"ឃុំស្នឹង","name:en":"Khum Snoeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1661427,13.2580689]},"properties":{"name":"ឃុំតាពូង","name:en":"Khum Ta Pung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1472193,13.3071533]},"properties":{"name":"ឃុំតាម៉ឺន","name:en":"Khum Ta Meun","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1159897,13.1824567]},"properties":{"name":"ឃុំអូរតាគី","name:en":"Khum Ou Ta Ki","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.106508,13.1147228]},"properties":{"name":"ឃុំជ្រៃ","name:en":"Khum Chrey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.989521,13.1599631]},"properties":{"name":"ឃុំអន្លង់រុន","name:en":"Khum Anlong Run","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1238137,13.3606097]},"properties":{"name":"ឃុំជ្រោយស្តៅ","name:en":"Khum Chroy Sdav","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0725515,13.3829668]},"properties":{"name":"ឃុំបឹងព្រីង","name:en":"Khum Boeng Pring","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0675146,13.2488094]},"properties":{"name":"ឃុំគោកឃ្មុំ","name:en":"Khum Kok Khmum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0217393,13.2462594]},"properties":{"name":"ឃុំបន្សាយត្រែង","name:en":"Khum Bansay Traeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9859483,13.2716429]},"properties":{"name":"ឃុំរូងជ្រៃ","name:en":"Khum Rung Chrey","place":"village","wikidata":"Q7379851"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1868626,13.0933619]},"properties":{"name":"សង្កាត់ទួលតាឯក","name:en":"Sangkat Tuol Ta Aek","place":"village","wikidata":"Q7853417"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2120123,13.0829164]},"properties":{"name":"សង្កាត់ព្រែកព្រះស្តេច","name:en":"Sangkat Preaek Preah Sdaech","place":"village","wikidata":"Q7239318"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.213829,13.1004825]},"properties":{"name":"សង្កាត់រតនៈ","name:en":"Sangkat Ratanak","place":"village","wikidata":"Q7370231"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1832381,13.1202732]},"properties":{"name":"សង្កាត់ចំការសំរោង","name:en":"Sangkat Chamkar Samraong","place":"village","wikidata":"Q5069818"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1924282,13.1272408]},"properties":{"name":"សង្កាត់ស្លាកែត","name:en":"Sangkat Sla Kaet","place":"village","wikidata":"Q7538330"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.195618,13.1455653]},"properties":{"name":"សង្កាត់ក្តុលដូនទាវ","name:en":"Sangkat Kdol Doun Teav","place":"village","wikidata":"Q6382022"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.134455,13.0731686]},"properties":{"name":"សង្កាត់អូរម៉ាល់","name:en":"Sangkat Ou Mal","place":"village","wikidata":"Q10950007"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1787181,13.0592191]},"properties":{"name":"សង្កាត់វត្តគរ","name:en":"Sangkat Voat Kor","place":"village","wikidata":"Q7939165"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1697462,13.10271]},"properties":{"name":"ភូមិអូរចារ","name:en":"Phum Ou Char","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1967875,13.0934306]},"properties":{"name":"សង្កាត់ស្វាយប៉ោ","name:en":"Sangkat Svay Pao","place":"village","wikidata":"Q11007692"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8773064,13.2544052]},"properties":{"name":"ឃុំបវេល","name:en":"Khum Bavel","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9495343,13.2734687]},"properties":{"name":"ឃុំខ្នាចរមាស","name:en":"Khum Khnach Romeas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9497664,13.3304773]},"properties":{"name":"ឃុំល្វា","name:en":"Khum Lvea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7609052,13.3753635]},"properties":{"name":"ឃុំព្រៃខ្ពស់","name:en":"Khum Prey Khpuos","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7468051,13.286431]},"properties":{"name":"ឃុំអំពិលប្រាំដើម","name:en":"Khum Ampil Pram Daeum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7828774,13.128746]},"properties":{"name":"ឃុំក្តុលតាហែន","name:en":"Khum Kdol Ta Haen","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8251435,13.0853871]},"properties":{"name":"ឃុំឃ្លាំងមាស","name:en":"Khum Khleang Meas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7942189,13.1917749]},"properties":{"name":"ឃុំបឹងប្រាំ","name:en":"Khum Boeng Pram","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2744763,13.290457]},"properties":{"name":"ឃុំព្រែកនរិន្ទ","name:en":"Khum Preaek Norint","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2401622,13.1514512]},"properties":{"name":"ឃុំសំរោងក្នុង","name:en":"Khum Samraong Knong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2667472,13.1871807]},"properties":{"name":"ឃុំព្រែកខ្ពប","name:en":"Khum Preaek Khpob","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3137691,13.2392681]},"properties":{"name":"ឃុំព្រែកហ្លួង","name:en":"Khum Preaek Luong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1946789,13.2551445]},"properties":{"name":"ឃុំពាមឯក","name:en":"Khum Peam Aek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3719096,13.340063]},"properties":{"name":"ឃុំព្រៃចាស់","name:en":"Khum Prey Chas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3950898,12.7918443]},"properties":{"name":"ឃុំមោងឫស្សី","name:en":"Khum Moung Ruessei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4440899,12.6902237]},"properties":{"name":"ឃុំគារ","name:en":"Khum Kear","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.517301,12.6859927]},"properties":{"name":"ឃុំព្រៃស្វាយ","name:en":"Khum Prey Svay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5900788,12.6631289]},"properties":{"name":"ឃុំឫស្សីក្រាំង","name:en":"Khum Ruessei Krang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6067428,12.9081689]},"properties":{"name":"ឃុំជ្រៃ","name:en":"Khum Chrey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4762089,12.866688]},"properties":{"name":"ឃុំតាលាស់","name:en":"Khum Ta Loas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4157617,12.8412422]},"properties":{"name":"ឃុំកកោះ","name:en":"Khum Kakaoh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3828392,12.9001704]},"properties":{"name":"ឃុំព្រៃតូច","name:en":"Khum Prey Tuoch","place":"village","wikidata":"Q7242465"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.388313,12.7141232]},"properties":{"name":"ឃុំរបស់មង្គល","name:en":"Khum Robas Mongkol","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.880573,12.9375162]},"properties":{"name":"ឃុំស្តៅ","name:en":"Khum Sdau","place":"village","wikidata":"Q7439736"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9944452,12.8104927]},"properties":{"name":"ឃុំអណ្តើកហែប","name:en":"Khum Andaeuk Haeb","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8669054,12.7823285]},"properties":{"name":"ឃុំផ្លូវមាស","name:en":"Khum Phlov Meas","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8984533,12.8586283]},"properties":{"name":"ឃុំត្រែង","name:en":"Khum Traeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2369489,13.0835335]},"properties":{"name":"ឃុំអន្លង់វិល","name:en":"Khum Anlong Vil","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2168386,13.1179291]},"properties":{"name":"ឃុំនរា","name:en":"Khum Norea","place":"village","wikidata":"Q3312260"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.386877,13.1533444]},"properties":{"name":"ឃុំតាប៉ុន","name:en":"Khum Ta Pon","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3873838,13.0872807]},"properties":{"name":"ឃុំរកា","name:en":"Khum Roka","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3736612,13.0392945]},"properties":{"name":"ឃុំកំពង់ព្រះ","name:en":"Khum Kampong Preah","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3941902,12.97404]},"properties":{"name":"ឃុំកំពង់ព្រៀង","name:en":"Khum Kampong Prieng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.258426,12.9419519]},"properties":{"name":"ឃុំរាំងកេសី","name:en":"Khum Reang Kesei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2342122,13.0152558]},"properties":{"name":"ឃុំអូរដំបង១","name:en":"Khum Ou Dambang Muoy","place":"village","wikidata":"Q7110116"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2738484,13.0283828]},"properties":{"name":"ឃុំអូរដំបង២","name:en":"Khum Ou Dambang Pir","place":"village","wikidata":"Q7110119"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2029218,13.0110986]},"properties":{"name":"ឃុំវត្តតាមឹម","name:en":"Khum Voat Ta Moem","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.810465,12.4628128]},"properties":{"name":"ឃុំតាតោក","name:en":"Khum Ta Taok","place":"village","wikidata":"Q7672790"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9308101,12.5405207]},"properties":{"name":"ឃុំកំពង់ល្ពៅ","name:en":"Khum Kampong Lpov","place":"village","wikidata":"Q17063778"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9564759,12.7156299]},"properties":{"name":"ឃុំអូរសំរិល","name:en":"Khum Ou Samrel","place":"village","wikidata":"Q7110124"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7763787,12.5552051]},"properties":{"name":"ឃុំស៊ុង","name:en":"Khum Sung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7196736,12.6170347]},"properties":{"name":"ឃុំសំឡូត","name:en":"Khum Samlout","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7871889,12.7074772]},"properties":{"name":"ឃុំមានជ័យ","name:en":"Khum Mean Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8928732,12.6462574]},"properties":{"name":"ឃុំតាសាញ","name:en":"Khum Ta Sanh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.6141448,13.3713543]},"properties":{"name":"ឃុំសំពៅលូន","name:en":"Khum Sampov Lun","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4679617,13.365276]},"properties":{"name":"ឃុំអង្គរបាន","name:en":"Khum Angkor Ban","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4341969,13.420873]},"properties":{"name":"ឃុំតាសា្ត","name:en":"Khum Ta Sda","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.3931586,13.4367762]},"properties":{"name":"ឃុំសន្តិភាព","name:en":"Khum Santepheap","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4651388,13.4524157]},"properties":{"name":"ឃុំសិរីមានជ័យ","name:en":"Khum Serei Mean Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.463125,13.4680517]},"properties":{"name":"ឃុំជ្រៃសីមា","name:en":"Khum Chrey Seima","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5440886,13.3152192]},"properties":{"name":"ឃុំភ្នំព្រឹក","name:en":"Khum Phnom Proek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.422601,13.2216681]},"properties":{"name":"ឃុំពេជ្រចិន្តា","name:en":"Khum Pech Chenda","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5323071,13.3526298]},"properties":{"name":"ឃុំចក្រី","name:en":"Khum Chak Krey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.3643067,13.3530398]},"properties":{"name":"ឃុំបារាំងធ្លាក់","name:en":"Khum Barang Thleak","place":"village","wikidata":"Q4858351"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5507983,13.2597461]},"properties":{"name":"ឃុំអូររំដួល","name:en":"Khum Ou Rumduol","place":"village","wikidata":"Q7110121"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5357143,13.0310843]},"properties":{"name":"ឃុំកំរៀង","name:en":"Khum Kamrieng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.478646,13.0932601]},"properties":{"name":"ឃុំបឹងរាំង","name:en":"Khum Boeung Reang","place":"village","wikidata":"Q4937172"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5522027,13.1025969]},"properties":{"name":"ឃុំអូរដា","name:en":"Khum Ou Da","place":"village","wikidata":"Q7110118"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4753039,13.1333572]},"properties":{"name":"ឃុំត្រាង","name:en":"Khum Trang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4629165,13.1727631]},"properties":{"name":"ឃុំតាសែន","name:en":"Khum Ta Saen","place":"village","wikidata":"Q7672781"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.6875764,13.1567698]},"properties":{"name":"ឃុំតាក្រី","name:en":"Khum Ta Krey","place":"village","wikidata":"Q7672755"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2478186,12.8434672]},"properties":{"name":"ឃុំធិបតី","name:en":"Khum Thipakdei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3055801,12.7872473]},"properties":{"name":"ឃុំហប់","name:en":"Khum Hab","place":"village","wikidata":"Q5636584"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2692546,12.650793]},"properties":{"name":"ឃុំព្រះផុស","name:en":"Khum Preah Phos","place":"village","wikidata":"Q260394"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1781085,12.775764]},"properties":{"name":"ឃុំដូនបា","name:en":"Khum Doun Ba","place":"village","wikidata":"Q5302265"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1623004,12.6514202]},"properties":{"name":"ឃុំឆ្នាល់មាន់","name:en":"Khum Chhnal Mean","place":"village","wikidata":"Q5094919"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3551511,12.6131892]},"properties":{"name":"ឃុំព្រែកជីក","name:en":"Khum Preaek Chik","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5215313,12.5643963]},"properties":{"name":"ឃុំព្រៃត្រឡាច","name:en":"Khum Prey Tralach","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7137945,11.609557]},"properties":{"name":"ឃុំទួលព្រេជ","name:en":"Khum Tuol Prech","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6638168,11.9131204]},"properties":{"name":"ភូមិជ្រួយ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6737586,11.5184607]},"properties":{"name":"ឃុំដំណាក់អំពិល","name:en":"Khum Damnak Ampil","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0491986,11.6116113]},"properties":{"name":"ឃុំបារុង","name:en":"Khum Barung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1887109,11.5107159]},"properties":{"name":"ឃុំភូមិធំ","name:en":"Khum Phum Thom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1701939,11.4795981]},"properties":{"name":"ឃុំបឹងគ្រុំ","name:en":"Khum Boeung Krum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1410705,11.4970498]},"properties":{"name":"ឃុំទឹកឃ្លាំង","name:en":"Khum Teuk Khleang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4168275,13.5888453]},"properties":{"name:en":"Kralanh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.19204,10.6065669]},"properties":{"name":"ភូមិសុវណ្ណសាគរ","name:en":"Sovann Sakor","name:ko":"소반 사코르","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0032926,13.3551014]},"properties":{"name":"គោកត្រាច","name:en":"Kouk Trach","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0574279,11.5069608]},"properties":{"name":"ឃុំគគីរ","name:en":"Koki commune","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0479221,11.5017882]},"properties":{"name":"លំ ភូមិ.ទួលត្នោត","name:en":"Toul Thnout","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3260243,12.1062462]},"properties":{"name":"ត្រពាំងល័ក្ខណ៍","name:en":"Trapeang Leak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7673134,13.54893]},"properties":{"name":"ឃុំរើល","name:en":"Khum Reul","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8948941,13.6150082]},"properties":{"name":"ឃុំពាក់ស្នែង","name:en":"Khum Peak Snaeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0466829,12.5675175]},"properties":{"name":"Tang Krasang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9491773,13.9274482]},"properties":{"name":"អន្លង់ផ្សោត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5000353,10.9550434]},"properties":{"name":"Peam Montea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8347711,13.36489]},"properties":{"name":"ភូមិ​គ្រួស","name:en":"Krous","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6705031,12.1539724]},"properties":{"name":"Svay Chuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1660011,13.5382306]},"properties":{"name":"Anlong Thom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3062459,10.6051733]},"properties":{"name:en":"Local Fishing Village","name:es":"Puerto local de pescadores","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7342776,11.8867129]},"properties":{"name":"Angkor Chey","place":"village","population":"4876"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7280204,11.8311903]},"properties":{"name":"Ponley Phsar","place":"village","population":"3796"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6353313,11.8845665]},"properties":{"name":"រៀវ","name:en":"Riev","place":"village","population":"3407"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5908048,11.8741176]},"properties":{"name":"Stueng Penh","place":"village","population":"2663"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5266648,11.9574325]},"properties":{"name":"Tuol Vihear","place":"village","population":"5157"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5305226,12.2258739]},"properties":{"name":"Prek Kak","name:km":"ព្រែកកក់","place":"village","population":"5724"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1110586,13.5658709]},"properties":{"name":"Ang Thom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3529464,14.0274496]},"properties":{"name":"Ban Houy","place":"village","population":"160"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.911652,10.6432278]},"properties":{"name":"ភូមិព្រែកសង្កែ","name:en":"Phum Preaek Sangkae","name:km":"ភូមិព្រែកសង្កែ","name:ru":"Прэксангкае","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1493395,12.0607274]},"properties":{"name":"ឃុំស្រងែ","name:en":"Khum Sror'ngae","name:km":"ឃុំស្រងែ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3599945,14.0449809]},"properties":{"name":"Don Lo","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.2079934,12.5643045]},"properties":{"name":"កំពង់លួង","name:en":"Kampong Luong","name:km":"កំពង់លួង","name:ko":"깜퐁루옹","name:ru":"Кампонглоунг","place":"village","wikidata":"Q3816318"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4827497,14.1250855]},"properties":{"name":"ភ្លង់ថ្មី","name:en":"Phlong Thmie","note":"Phlong thmie Village, Bossbov Commun, Samrong Town, Oddarmeanchey Province, Cambodia.","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6320772,11.8892029]},"properties":{"name":"ព្រីង","name:en":"Pring","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3729782,12.3314845]},"properties":{"name":"ត្រពាំងប្ញស្សី","name:en":"Trapeang Ruessei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3842048,12.3090909]},"properties":{"name":"ត្រពាំងល្ពៅ","name:en":"Trapeang Lpov","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9464702,11.09663]},"properties":{"name":"ឃុំព្រៃកប្បាស","name:en":"Prey Kabbas","name:km":"ឃុំព្រៃកប្បាស","name:ru":"Прейкаббах","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3095634,10.7111443]},"properties":{"name":"ភូមិដើមថ្កូវ","name:en":"Daeum Tkov Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3382577,14.4459013]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8853932,12.1662052]},"properties":{"name":"អូររណា","name:en":"Ou Rona","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8793238,12.1884884]},"properties":{"name":"ស្រែព្រះ","name:en":"Srae Preah","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8751427,12.1814318]},"properties":{"name":"ស្រែខ្ទុម","name:en":"Srae Khtum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8453429,12.1855423]},"properties":{"name":"ស្រែអំពិល","name:en":"Srae Ampil","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8588734,12.209983]},"properties":{"name":"ពូចា","name:en":"Pu Cha","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8489805,12.2383412]},"properties":{"name":"អូរច្រា","name:en":"Ou Chra","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.844226,12.2840639]},"properties":{"name":"ពូកុង","name:en":"Pu Kong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.9124348,12.1843456]},"properties":{"name":"ស្រែល្វី","name:en":"Srae Lvi","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.950495,12.2310413]},"properties":{"name":"ហ្គាទី","name:en":"Kati","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.0388095,12.3192025]},"properties":{"name":"អណ្ដូងក្រឡឹង","name:en":"Andoung Kraloeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.7931333,12.1430236]},"properties":{"name":"ឆ្នែង","name:en":"Chnaeng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.1635457,12.4131913]},"properties":{"name":"ភូមិពូតាំង","name:en":"Putang Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.2445884,12.4886339]},"properties":{"name":"Pahlung","name:en":"Pou Long Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7202948,12.8115196]},"properties":{"name":"Sankor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.2594948,12.0601586]},"properties":{"name":"ព្រៃទទឹង","name:en":"Prey Totueng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6097563,14.2317726]},"properties":{"name":"ឃុំកន្ទួត","name:en":"Kantuot","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5124394,12.8628291]},"properties":{"name":"ស្រុកមោងខេត្តបាតដំបង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3294491,12.1048444]},"properties":{"name":"ពួនប្រមាត់","name:en":"Puon Pramat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3286348,12.0831895]},"properties":{"name":"កោះស្វាយ","name:en":"Kaoh Svay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3118021,12.0953677]},"properties":{"name":"គូរ","name:en":"Kur","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3227793,12.0881886]},"properties":{"name":"កោះកាភេម","name:en":"Kaoh Kaphem","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.2983844,12.0883649]},"properties":{"name":"តាលន","name:en":"Ta Lon","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.2987961,12.0985486]},"properties":{"name":"អង","name:en":"Ang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1130402,12.3510332]},"properties":{"name":"កំរែង","name:en":"Kamreng","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4186963,12.1639482]},"properties":{"name":"ឃុំក្រាំងស្គា","name:en":"Khum Krangskea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.2790792,12.2391108]},"properties":{"name":"ភូមិក្តុល","name:en":"Phumi Kdol","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7290781,12.0151968]},"properties":{"name":"ភូមិសំរោង","name:en":"Phumi Samroang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.5678358,12.127629]},"properties":{"name":"ភូមិក្រាំង តាមុំ","name:en":"Krang Tamom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6457191,11.7168966]},"properties":{"name":"Khum Trach Tong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.090089,12.3740432]},"properties":{"name":"ភូមិជីអោក","name:en":"Chi Auk Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4056475,10.8915208]},"properties":{"name":"Thmor Sor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3993515,12.8414059]},"properties":{"name":"ភូមិ កកោះ","name:en":"Kakaoh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8312223,11.5616803]},"properties":{"addr:postcode":"120913","name":"សង្កាត់កាកាបទី២","name:en":"Sangkat Kakab 2","name:km":"សង្កាត់កាកាបទី២","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8335396,11.5187076]},"properties":{"addr:postcode":"120910","name":"សង្កាត់ចោមចៅទី២","name:en":"Sangkat Chaom Chau 2","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9093281,11.5229125]},"properties":{"addr:postcode":"120607","name":"សង្កាត់បឹងទំពុនទី២","name:en":"Sangkat Boeng Tumpun 2","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8761117,11.5347705]},"properties":{"addr:postcode":"120605","name":"សង្កាត់ស្ទឹងមានជ័យទី៣","name:en":"Sangkat Stueng Mean Chey 3","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8880421,11.5429278]},"properties":{"addr:postcode":"120603","name":"សង្កាត់ស្ទឹងមានជ័យទី១","name:en":"Sangkat Stueng Mean Chey 1","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8608338,11.583963]},"properties":{"addr:postcode":"120806","name":"សង្កាត់គោកឃ្លាង","name:en":"Sangkat Kouk Khleang","name:km":"សង្កាត់គោកឃ្លាង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8746526,11.5508326]},"properties":{"addr:postcode":"120805","name":"សង្កាត់អូរបែកក្អម","name:en":"Sangkat Ou Baek K'am","name:km":"សង្កាត់អូរបែកក្អម","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8955952,11.5994337]},"properties":{"addr:postcode":"120707","name":"សង្កាត់ទួលសង្កែទី២","name:en":"Sangkat Tuol Sangkae 2","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9094569,11.5496658]},"properties":{"addr:postcode":"120106","name":"សង្កាត់ទួលស្វាយព្រៃទី១","name:en":"Sangkat Tuol Svay Prey Ti Muoy","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9192416,11.5307758]},"properties":{"addr:postcode":"120112","name":"សង្កាត់ផ្សារដើមថ្កូវ","name:en":"Sangkat Phsar Daeum Thkov","name:km":"សង្កាត់ផ្សារដើមថ្កូវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9036406,11.4882678]},"properties":{"addr:postcode":"120508","name":"សង្កាត់ជើងឯក","name:en":"Sangkat Cheung Aek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8042486,11.4467139]},"properties":{"addr:postcode":"120505","name":"សង្កាត់ក្រាំងពង្រ","name:en":"Sangkat Krang Pongro","name:km":"សង្កាត់ក្រាំងពង្រ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9051856,11.6192823]},"properties":{"addr:postcode":"120702","name":"សង្កាត់គីឡូម៉ែត្រលេខ៦","name:en":"Sangkat Kilomaetr Lekh Prammuoy","name:km":"សង្កាត់គីឡូម៉ែត្រលេខ៦","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8841571,11.6555149]},"properties":{"addr:postcode":"121003","name":"សង្កាត់ព្រែកតាសេក","name:en":"Sangkat Preaek Ta Sek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9163303,13.3532846]},"properties":{"name":"ស្វាយធំ","name:en":"Svay Thom","name:km":"ស្វាយធំ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2172926,12.7193228]},"properties":{"name":"ភូមិ​បន្ទាយចារ ឃុំ​ឆ្នាល់មាន់ ស្រុកគាស់ក្រឡ ខេត្តបាត់ដំបង","name:en":"Krang Svat","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0990933,12.8717901]},"properties":{"name":"Changha Svay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5533788,10.9767316]},"properties":{"name":"រោង (ភូមិ)","name:en":"Roung Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9424981,12.8694628]},"properties":{"name":"ភូមិស្វាយស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9500595,11.5211509]},"properties":{"name":"ភូមិតាងៅកណ្តាល","name:en":"Ta Ngov Kandal","note":"សង្កាត់និរោធន៍ ខណ្ឌច្បារអំពៅ រាជធានីភ្នំពេញ។","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3094757,11.1551054]},"properties":{"name":"ភូមិព្រែកត្រែង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.695394,13.4674244]},"properties":{"addr:city":"Kok Srama, Lvea, Puok, Siem Reap province","addr:street":"13.46748, 103.69520","alt_name:en":"Banteay Sra;Banteay Srah   (Ancient Village)","description":"Substantial-sized, double-moated site situated approximately 7kms northwest of the West Baray (Baray Toek Thla) and immediately south of the ancient road which connected Angkor with Prasat Banteay Chhmar. The site is almost square, measuring some 650m eas","name":"បន្ទាយស្រះ","name:en":"Kâmpaeng Stoeng Preah Srok","name:km":"បន្ទាយស្រះ","note":"Part of\tBanteay Srah\nBuilder\tJayavarman VII (?)\nMaterial\tLaterite, Brick","place":"village","start_date":"Late 12th Century (?)","website":"https://beyondangkor.org/index.php/Banteay_Srah"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1489656,12.2933354]},"properties":{"name":"ឃុំអណ្ដូងពោធិ៍","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.2270033,11.8297457]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3210446,10.8700703]},"properties":{"name":"Kasko","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4951613,11.8088579]},"properties":{"name":"ព្រៃស្រឡៅ","name:en":"Prey Sralau","place":"village","population":"742"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4871546,11.8152341]},"properties":{"name":"ភូមិ ស្វាយតាឡក","name:en":"Svay Ta Lak","place":"village","population":"229"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4873528,11.8181718]},"properties":{"name":"ភូមិ ស្វាយរលួស","name:en":"Svay Roluos","place":"village","population":"604"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4747958,11.8192526]},"properties":{"name":"ភូមិ ទួលតាលាប់","name:en":"Toul Ta Lorb","place":"village","population":"522"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4939641,11.8224257]},"properties":{"name":"ភូមិ មាសស្នេហ៍","name:en":"Meas Snae","place":"village","population":"644"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4703319,11.7991677]},"properties":{"name":"ភូមិ បុសល្ហុង","name:en":"Bos Lahong","place":"village","population":"795"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4765003,11.7906652]},"properties":{"name":"ភូមិ ទួលទន្សោង","name:en":"Tuol Tonsaong","place":"village","population":"458"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4800308,11.7871817]},"properties":{"name":"ភូមិ ទំពាំងឫស្សី","name:en":"Tumpeang Ruessei","place":"village","population":"153"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5531437,12.0657972]},"properties":{"name":"បឹងព្រួលលើ","name:en":"Boeng Pruol Leu","place":"village","population":"535"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5513198,12.0584948]},"properties":{"name":"ទួលកំពតទី ១","name:en":"Tuol Kampot Ti Muoy","place":"village","population":"509"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5473409,12.1007281]},"properties":{"name":"ព្រែកពាម","name:en":"Preaek Peam","place":"village","population":"452"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5507071,12.1034329]},"properties":{"name":"ពាមក្នុង","name:en":"Peam Knong","place":"village","population":"489"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5465663,12.0943193]},"properties":{"name":"កំពង់ចន្លុះលិច","name:en":"Kampong Chanloh Lech","place":"village","population":"781"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5510267,12.0844514]},"properties":{"name":"ព្រែកផ្ដៅ","name:en":"Preaek Phdau","place":"village","population":"815"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5510267,12.0805424]},"properties":{"name":"កំពង់ចន្លុះកើត","name:en":"Kampong Chanloh Kaeut","place":"village","population":"813"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5629191,12.1089002]},"properties":{"name":"បទស្លាស្នាម","name:en":"Bat Sla Snam","place":"village","population":"640"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5470006,12.1218802]},"properties":{"name":"ភូមិទី៤","name:en":"Phum Ti Buon","place":"village","population":"1306"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5809876,12.0937656]},"properties":{"name":"តាប៉ាង","name:en":"Ta Pang","place":"village","population":"535"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5910151,12.0811994]},"properties":{"name":"ឈើទាល ទី ១","name:en":"Chheu Teal Ti Muoy","place":"village","population":"643"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5858432,12.0771206]},"properties":{"name":"រាំដំឡឹង","name:en":"Pram Damloeng","place":"village","population":"1179"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5907187,12.0739239]},"properties":{"name":"ឈើទាលទី ២","name:en":"Chheu Teal Ti Pir","place":"village","population":"767"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5843688,12.0638255]},"properties":{"name":"ឈើទាលតូច","name:en":"Chheu Teal Touch","place":"village","population":"965"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5471975,12.1099157]},"properties":{"name":"ភូមិទី៦","name:en":"Phum Ti Prammuoy","place":"village","population":"1631"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5476454,12.1161633]},"properties":{"name":"ភូមិទី៥","name:en":"Phum Ti Pram","place":"village","population":"1081"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5481471,12.1288171]},"properties":{"name":"ភូមិទី៣","name:en":"Phum Ti Bei","place":"village","population":"1656"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5589446,12.1275788]},"properties":{"name":"ភូមិទី២","name:en":"Phum Ti Pir","place":"village","population":"773"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5649456,12.1401078]},"properties":{"name":"ភូមិទី១","name:en":"Phum Ti Muoy","place":"village","population":"1120"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5974787,12.0310516]},"properties":{"name":"ថ្មពេជ្រទី២","name:en":"Thma Pechr Ti Pir","place":"village","population":"1152"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6068808,12.0293291]},"properties":{"name":"ថ្មពេជ្រទី១","name:en":"Thma Pech Ti Muoy","place":"village","population":"903"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5935119,12.0027995]},"properties":{"name":"រោងគោ","name:en":"Roung Kou","place":"village","population":"1343"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5757043,12.0073917]},"properties":{"name":"ពើក","name:en":"Peuk","place":"village","population":"800"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6179221,12.0060114]},"properties":{"name":"ភូមិ ៨៧","name:en":"Phum Paetprampir","place":"village","population":"779"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5621349,11.9293039]},"properties":{"name":"ម្រាមទាក","name:en":"Mream Teak","place":"village","population":"1463"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.3211546,12.0452129]},"properties":{"name":"ស្អាត","name:en":"S'at","place":"village","population":"2476"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7575321,11.7932143]},"properties":{"name":"អង្គរក្នុង","name:en":"Angkor Knong","place":"village","population":"1103"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7278168,11.7984041]},"properties":{"name":"ពោធិធំ","name:en":"Pou Thum","place":"village","population":"276"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.723654,11.7928169]},"properties":{"name":"អង្គរក្រៅ","name:en":"Angkor Krau","place":"village","population":"834"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7217545,11.7834706]},"properties":{"name":"អង្គរលើ","name:en":"Angkor Leu","place":"village","population":"1009"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7097058,11.9608799]},"properties":{"name":"ភូមិ ៤.១៦","name:en":"Phum Buon Dabprammuoy","place":"village","population":"337"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7156358,11.959579]},"properties":{"name":"ក្បាលអូរ","name:en":"Kbal Ou","place":"village","population":"763"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.716527,11.9401131]},"properties":{"name":"ភូមិ ២.១៧","name:en":"Phum Pir Dabprampir","place":"village","population":"547"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7449486,11.9376409]},"properties":{"name":"ស្មោញ","name:en":"Smaonh","place":"village","population":"1002"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.745175,11.9444299]},"properties":{"name":"ថ្លុងពង្រ","name:en":"Thlok Pongro","place":"village","population":"622"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.745726,11.9529736]},"properties":{"name":"ល្វាធំ","name:en":"Lvea Thum","place":"village","population":"719"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7454938,11.964386]},"properties":{"name":"ល្វាតូច","name:en":"Lvea Touch","place":"village","population":"797"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7426185,11.9681644]},"properties":{"name":"សេះ","name:en":"Seh","place":"village","population":"761"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7415027,11.9723206]},"properties":{"name":"ទួលវិហារមានជ័យ","name:en":"Tuol Vihear Mean Chey","place":"village","population":"376"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7340324,11.9716807]},"properties":{"name":"សំបួរ","name:en":"Sambour","place":"village","population":"911"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7315675,11.9762259]},"properties":{"name":"កណ្ដាល","name:en":"Kandal","place":"village","population":"419"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7432305,11.9775728]},"properties":{"name":"ត្រពាំងបី","name:en":"Trapeang Bei","place":"village","population":"837"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7607232,11.976558]},"properties":{"name":"វាលទឹកចេញ","name:en":"Veal Tuek Chenh","place":"village","population":"784"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7417661,12.0024623]},"properties":{"name":"ដំណាក់ពពេល","name:en":"Damnak Popel","place":"village","population":"418"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4541575,11.9632098]},"properties":{"name":"កោះចាស់","name:en":"Kaoh Chas","place":"village","population":"461"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4566905,11.9586987]},"properties":{"name":"កោះប៉ែន ក","name:en":"Kaoh Paen Ka","place":"village","population":"694"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4543039,11.9538712]},"properties":{"name":"កោះប៉ែន ខ","name:en":"Kaoh Paen Kha","place":"village","population":"622"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4500968,11.9459765]},"properties":{"name":"កោះប៉ែន គ","name:en":"Kaoh Paen Kho","place":"village","population":"613"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4369724,11.9480795]},"properties":{"name":"កំពង់ត្រុំក្រោម","name:en":"Kampong Trom Kraom","place":"village","population":"578"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4356275,11.9440955]},"properties":{"name":"ស្វាយជ្រុំ","name:en":"Svay Chrum","place":"village","population":"517"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4432778,11.9394141]},"properties":{"name":"កោះដាច់","name:en":"Kaoh Dach","place":"village","population":"861"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4332425,11.935569599999999]},"properties":{"name":"កោះព្រលូង","name:en":"Kaoh Prolung","place":"village","population":"509"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.409289,11.9355441]},"properties":{"name:kh":"កោះព្រលូង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3892119,11.9257674]},"properties":{"name":"កោះកុក \"ក\"","name:en":"Kaoh Kok Ka","place":"village","population":"207"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3930493,11.9217551]},"properties":{"name":"ភូមិទី៩","name:en":"Phum Ti Prambuon","place":"village","population":"931"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4764526,11.9762796]},"properties":{"name":"ទន្លេបិទលើ","name:en":"Tonle Bet Leu","place":"village","population":"787"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4768504,11.9665086]},"properties":{"name":"ទន្លេបិទក្រោម","name:en":"Tonle Bet Kraom","place":"village","population":"1228"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4770383,11.9608226]},"properties":{"name":"ទន្លេបិទ","name:en":"Tonle Bet","place":"village","population":"965"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4746295,11.9368931]},"properties":{"name":"ព្រែកជីក","name:en":"Preaek Chik","place":"village","population":"1116"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4719043,11.9309519]},"properties":{"name":"ទួលខ្សាច់","name:en":"Tuol Khsach","place":"village","population":"964"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4485036,11.9240638]},"properties":{"name":"ភូមិទី១","name:en":"Phum Ti Muoy","place":"village","population":"1347"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4831226,12.0057033]},"properties":{"name":"រកាធំ","name:en":"Roka Thum","place":"village","population":"722"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4883337,12.0103373]},"properties":{"name":"ជីរោទ៍ក្រោម ទី ១","name:en":"Chirou Kraom Ti Muoy","place":"village","population":"449"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4942338,12.0128168]},"properties":{"name":"ជីរោទ៍ក្រោម ទី ២","name:en":"Chirou Kraom Ti Pir","place":"village","population":"563"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4955652,12.0192108]},"properties":{"name":"ជីរោទ៍កណ្ដាល","name:en":"Chirou Kandal","place":"village","population":"616"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5056731,12.0297202]},"properties":{"name":"ជីរោទ៍លើ","name:en":"Chirou Leu","place":"village","population":"674"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5084767,12.0249172]},"properties":{"name":"ជួរកណ្ដាល","name:en":"Chuor Kandal","place":"village","population":"566"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5122447,12.025249]},"properties":{"name":"កំពង់ឫស្សី","name:en":"Kampong Ruessei","place":"village","population":"719"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4750289,11.9927822]},"properties":{"name":"ព្រែកតូច","name:en":"Preaek Touch","place":"village","population":"1153"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5233062,12.0083957]},"properties":{"name":"ទួលកែវ","name:en":"Tuol Kaev","place":"village","population":"360"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.6084237,13.6194484]},"properties":{"name":"ស្ទឹងត្រែង","name:en":"Stueng Bat","name:km":"ស្ទឹងត្រែង","name:th":"สตึงแตรง","place":"village","population":"652"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.1041798,13.7589207]},"properties":{"name":"Krauch","name:en":"Krauch","place":"village","population":"200"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0554132,12.5261564]},"properties":{"name":"Thlea M'am ធ្លារម្អម","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.552512,13.7030855]},"properties":{"name":"Srayang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3756292,12.8850071]},"properties":{"name":"ភូមិ ដុបក្រសាំង","name:en":"Dob Krasang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.371394,12.8952119]},"properties":{"name":"ភូមិ ព្រៃតូច","name:en":"Prey Toch","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3624153,12.9188425]},"properties":{"name":"ភូមិ កូនខ្លុង","name:en":"Koun Khlong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3528277,12.9406776]},"properties":{"name":"ភូមិ សាលាត្រាវ","name:en":"Sala Trav","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3450627,12.9524512]},"properties":{"name":"ភូមិ កាច់រទេះ","name:en":"Kach Roteh","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3407336,12.9590592]},"properties":{"name":"ភូមិ អូសទុក","name:en":"Os Tuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.328653,12.9797735]},"properties":{"name":"ភូមិ​ ក្បាលថ្នល់","name:en":"Kbal Thnol","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3134529,13.0114492]},"properties":{"name":"ភូមិ​ស្រះ​កែវ","name:en":"Srah Kaev","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2996288,13.0315764]},"properties":{"name":"ភូមិ​កំពង់​ព្រះ","name:en":"Kampong Preah","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2849947,13.03917]},"properties":{"name":"ភូមិ​បញ្ញា","name:en":"Pankha","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3315716,10.3167095]},"properties":{"name":"Hòn Tre","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6907666,10.5256974]},"properties":{"name":"Tà Êm","name:fa":"تا‌ام","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7216175,10.5162229]},"properties":{"name":"Nha Sáp","name:fa":"ناساپ","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6810269,10.526336]},"properties":{"name":"Đồng Cừ","name:fa":"دونگ‌کی","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.703513,10.5220346]},"properties":{"name":"Cống Cả","name:fa":"کونگ‌کا","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6104127,10.5173854]},"properties":{"name":"Tân Thạnh","name:fa":"تان‌تان","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6472096,10.5276577]},"properties":{"name":"Khánh Hòa","name:fa":"خان‌هوا","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6005355,10.5320969]},"properties":{"name":"Hòa Khánh","name:fa":"هواخان","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.5729982,10.4901651]},"properties":{"name":"Rạch Gỗ","name:fa":"ژاچ‌گو","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.821015,11.526002]},"properties":{"addr:postcode":"12091607","name":"ភូមិព្រៃព្រីងខាងត្បូង២","name:en":"Prey Pring Khang Tboung 2","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9118671,10.6672293]},"properties":{"name":"ភូមិព្រែកទាល់","name:en":"Phum Preaek Toal","name:km":"ភូមិព្រែកទាល់","name:ru":"Прэктоаль","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9025223,10.6899812]},"properties":{"name":"ភូមិកំពង់ចិន","name:en":"Phum Kampong Chen","name:km":"ភូមិកំពង់ចិន","name:ru":"Кампонгтьен","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9214265,10.6231809]},"properties":{"name":"ភូមិព្រែកប្រស់","name:en":"Phum Preaek Pras","name:km":"ភូមិព្រែកប្រស់","name:ru":"Прэкпрох","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8865256,10.7143337]},"properties":{"name":"ភូមិព្រែកផ្អាវ","name:en":"Phum Preaek Ph'av","name:km":"ភូមិព្រែកផ្អាវ","name:ru":"Прэкпъау","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.876702,10.702722]},"properties":{"name":"ភូមិកំពង់ស្មាច់តូច","name:en":"Phum Kampong Smach Touch","name:km":"ភូមិកំពង់ស្មាច់តូច","name:ru":"Кампонгсматьтоуть","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8899159,10.7088309]},"properties":{"name":"ភូមិទួល","name:en":"Phum Tuol","name:km":"ភូមិទួល","name:ru":"Туоль","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8223591,11.4136092]},"properties":{"name":"ភូមិបារគូ","name:en":"Phum Barku","name:km":"ភូមិបារគូ","name:ru":"Баку","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.83142,11.408971]},"properties":{"name":"ភូមិស្វាយលិច","name:en":"Phum Svay Lech","name:km":"ភូមិស្វាយលិច","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.814248,11.4147871]},"properties":{"name":"ភូមិឃ្មុត","name:en":"Phum Khmut","name:km":"ភូមិឃ្មុត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8197412,11.4329172]},"properties":{"name":"ភូមិអូរអណ្ដូង","name:en":"Phum Ou Andoung","name:km":"ភូមិអូរអណ្ដូង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.807843,11.4294153]},"properties":{"name":"ភូមិ‌អន្លង់រមៀត‌ខាងជើង","name:en":"Phum Anlong Romiet Khangcheung","name:km":"ភូមិ‌អន្លង់រមៀត‌ខាងជើង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8057079,11.4230741]},"properties":{"name":"ភូមិអន្លង់រមៀត","name:en":"Phum Anlong Romiet","name:km":"ភូមិអន្លង់រមៀត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8013305,11.4327068]},"properties":{"name":"ភូមិ‌កំពង់ទួល","name:en":"Phum Kampong Taol","name:km":"ភូមិ‌កំពង់ទួល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8138618,11.4290052]},"properties":{"name":"ភូមិស្វាយមីង","name:en":"Phum Svay Ming","name:km":"ភូមិស្វាយមីង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.818454,11.421539]},"properties":{"name":"ភូមិត្បូងក្ដី","name:en":"Phum Tboung Kdei","name:km":"ភូមិត្បូងក្ដី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.824017,11.420855]},"properties":{"name":"ភូមិពោធិ៍ដុះ","name:en":"Phum Pou Doh","name:km":"ភូមិពោធិ៍ដុះ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.824204,11.418021]},"properties":{"name":"ភូមិវាលកណ្ដាល","name:en":"Phum Veal Kandal","name:km":"ភូមិវាលកណ្ដាល","name:ru":"Веалькандаль","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.3446769,13.4100043]},"properties":{"name":"บ้านเขาช่องแคบ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3695799,12.2667716]},"properties":{"name":"Đắk Huýt","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3865608,12.2558285]},"properties":{"name":"Bu Sóp","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3758375,12.2521749]},"properties":{"name":"Bu Prăng 2A","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3132156,12.2881533]},"properties":{"name":"Bu Prăng 2","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3772302,12.2598642]},"properties":{"name":"Bu Prăng 1A","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3486083,12.2839908]},"properties":{"name":"Bu Prăng 1","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3717141,12.2541035]},"properties":{"name":"Bu Nung","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.4061501,12.2193074]},"properties":{"name":"Bu Lum","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3694969,12.259051]},"properties":{"name":"Bu Krắk","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.3814004,12.2626418]},"properties":{"name":"Bu Dăr","place":"village","place:VI":"Bon"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.4183751,12.205768]},"properties":{"name":"Thôn 2A","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.4388315,12.2286211]},"properties":{"name":"Tuy Đức","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.4902974,12.3008156]},"properties":{"name":"Thuận Trung","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5284658,12.2959919]},"properties":{"name":"Thuận Tình","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5628663,12.3228778]},"properties":{"name":"Thuận Thành","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5175251,12.2970093]},"properties":{"name":"Thuận Nghĩa","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5360329,12.3128819]},"properties":{"name":"Thuận Nam","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5296186,12.3040238]},"properties":{"name":"Thuận Lợi","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.55059,12.3203277]},"properties":{"name":"Thuận Hòa","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.4977452,12.2855769]},"properties":{"name":"Thuận Bình","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5180893,12.3114537]},"properties":{"name":"Thuận Bắc","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.4825583,12.2681812]},"properties":{"name":"Thôn 8","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5778768,13.625756]},"properties":{"name":"บ้านโคกสะแบง","name:th":"บ้านโคกสะแบง","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5202453,13.5777989]},"properties":{"name":"บ้านเนินสมบูรณ์","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5477486,13.6461128]},"properties":{"name":"บ้านโสนน้อย","name:th":"บ้านโสนน้อย","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.6143088,13.6111908]},"properties":{"name":"บ้านหนองเอี่ยน","name:en":"Ban Nong Ian","name:th":"บ้านหนองเอี่ยน","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5661029,13.5900057]},"properties":{"name":"บ้านใหม่ปากฮ่อง","name:en":"Ban Mai Pak Hong","name:th":"บ้านใหม่ปากฮ่อง","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5554706,13.5807033]},"properties":{"name":"บ้านแสนสุข","name:th":"บ้านแสนสุข","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5793573,12.4083945]},"properties":{"name":"Thuận Thành","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.571406,12.3937627]},"properties":{"name":"Thuận Nam","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5792714,12.4271334]},"properties":{"name":"Thuận Bắc","place":"village","place:VI":"Thôn"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6663644,14.1079475]},"properties":{"name":"Khamphoet","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4892918,12.9263735]},"properties":{"name":"บ้านผักกาด","name:en":"Ban Phakkhad","name:th":"บ้านผักกาด","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6505267,10.5854164]},"properties":{"name":"ស្មាច់ដែង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0249629,11.2440933]},"properties":{"name":"ព្រែកអំពិល","name:en":"Prek Ambel","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0624865,11.013416]},"properties":{"name":"ព្រៃគគីរ","name:en":"Prey Kokir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0652196,10.928651]},"properties":{"name":"ច្រេស","name:en":"Chres","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9275365,10.8767337]},"properties":{"name":"ថ្មី","name:en":"Thmei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0505801,10.8992011]},"properties":{"name":"ត្នោត","name:en":"Tnaot","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0202819,10.9482178]},"properties":{"name":"សំឡី","name:en":"Samlei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9668255,11.013229]},"properties":{"name":"ស្វាយតាយាន","name:en":"Svay Ta Yean","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8843341,11.0082925]},"properties":{"name":"ព្រះពន្លា","name:en":"Preah Ponlea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9613913,10.9226096]},"properties":{"name":"ខ្សែត្រ","name:en":"Khsaetr","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8895564,10.9329121]},"properties":{"name":"រាជមន្ទីរ","name:en":"Reach Montir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8431434,10.9669775]},"properties":{"name":"សំយ៉ោង","name:en":"Samyaong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8686244,10.9831555]},"properties":{"name":"ព្រៃធំ","name:en":"Prey Thum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8702472,10.9434566]},"properties":{"name":"បន្ទាយក្រាំង","name:en":"Banteay Krang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9274828,11.0105909]},"properties":{"name":"ប្រសូត្រ","name:en":"Prasoutr","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9365568,11.0551904]},"properties":{"name":"កណ្ដៀងរាយ","name:en":"Kandieng Reay","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8907473,11.0740802]},"properties":{"name":"សំបួរ","name:en":"Sambuor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8647513,11.0966299]},"properties":{"name":"រមាំងថ្កោល","name:en":"Romeang Thkaol","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8710706,11.1473032]},"properties":{"name":"ស្វាយរំពារ","name:en":"Svay Rumpear","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9361142,11.158361]},"properties":{"name":"គគីសោម","name:en":"Koki Saom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9905684,11.1360819]},"properties":{"name":"ព្រៃតាអី","name:en":"Prey Ta Ei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0008573,11.0957455]},"properties":{"name":"ពពែត","name:en":"Popeaet","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0404897,11.1042786]},"properties":{"name":"មនោរម្យ","name:en":"Monourom","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8930594,11.1815437]},"properties":{"name":"ពងទឹក","name:en":"Pong Tuek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8729267,11.2369034]},"properties":{"name":"បុសមន","name:en":"Bos Mon","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8596122,11.278772]},"properties":{"name":"ថ្នាធ្នង់","name:en":"Thna Thnong","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8282465,11.2810947]},"properties":{"name":"កំពង់អំពិល","name:en":"Kampong Ampil","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8235392,11.2415178]},"properties":{"name":"ជ្រុងពពេល","name:en":"Chrung Popel","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8196983,11.2074581]},"properties":{"name":"សង្កែ","name:en":"Sangkae","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7940483,11.1834803]},"properties":{"name":"ស្វាយចេក","name:en":"Svay Chek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.747925,11.2269616]},"properties":{"name":"ម៉ឺនជ័យ","name:en":"Meun Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7512993,11.2754551]},"properties":{"name":"ធ្មា","name:en":"Thmea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8730637,11.4307333]},"properties":{"name":"គគីរ","name:en":"Kokir","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8130759,11.4788839]},"properties":{"name":"អំពិល","name:en":"Ampil","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8668864,11.3389205]},"properties":{"name":"ដូង","name:en":"Doung","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8101201,11.3585807]},"properties":{"name":"អណ្ដូងពោធិ៍","name:en":"Andoung Pou","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8224422,11.310564]},"properties":{"name":"អង្គប្រស្រែ","name:en":"Angk Prasrae","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7562506,11.3089754]},"properties":{"name":"ត្រពាំងស្ដៅ","name:en":"Trapeang Sdau","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7226318,11.3032627]},"properties":{"name":"ចន្ដ្រី","name:en":"Chantrei","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7176912,11.3686942]},"properties":{"name":"មុខដា","name:en":"Mukh Da","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6722867,11.3596141]},"properties":{"name":"ម្រាម","name:en":"Mream","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7165271,11.4088977]},"properties":{"name":"ជ្រៃធំ","name:en":"Chrey Thum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6984276,11.4518294]},"properties":{"name":"សម្បត្ដិមានជ័យ","name:en":"Sambatt Mean Chey","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7110581,11.4765444]},"properties":{"name":"សំបួរ","name:en":"Sambuor","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7149178,11.5349455]},"properties":{"name":"ក្រសាំង","name:en":"Krasang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7505,11.5678308]},"properties":{"name":"អណ្ដូងត្របែក","name:en":"Andoung Trabaek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8363575,11.5310875]},"properties":{"name":"ត្រស់","name:en":"Tras","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8207309,11.0219382]},"properties":{"name":"បាសាក់","name:en":"Basak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7457417,11.065343500000001]},"properties":{"name":"កំពង់ចំឡង","name:en":"Kampong Chamlang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7612932,11.153098]},"properties":{"name":"ពោធិរាជ","name:en":"Pouthi Reach","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7388779,11.1910135]},"properties":{"name":"ធ្លក","name:en":"Thlok","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7249117,11.2258986]},"properties":{"name":"ដូនស","name:en":"Doun Sa","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7072225,11.2048297]},"properties":{"name":"អង្គតាសូ","name:en":"Angk Ta Sou","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6792256,11.2170508]},"properties":{"name":"ស្វាយអង្គ","name:en":"Svay Angk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.695284,11.1634661]},"properties":{"name":"គោកព្រីង","name:en":"Kouk Pring","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7104278,11.1028205]},"properties":{"name":"តាសួស","name:en":"Ta Suos","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7013297,11.0316107]},"properties":{"name":"ចំបក់","name:en":"Chambak","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6569767,11.0157091]},"properties":{"name":"គ្រួស","name:en":"Kruos","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6148553,11.0670177]},"properties":{"name":"ស្វាយធំ","name:en":"Svay Thum","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6487235,11.0952744]},"properties":{"name":"ឈើទាល","name:en":"Chheu Teal","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6223977,11.1507217]},"properties":{"name":"ក្រោលគោ","name:en":"Kraol Kou","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6352025,11.2199764]},"properties":{"name":"ស្វាយយា","name:en":"Svay Yea","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3690711,10.5292796]},"properties":{"name":"ពងទឹក","name:en":"Pong Toek","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3834987,10.4941258]},"properties":{"name":"អង្កោល","name:en":"Angkoul","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.1180323,12.5691144]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.2104559,12.571392]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.1548054,12.5399752]},"properties":{"place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8542944,12.5983968]},"properties":{"name":"Tasang","name:ru":"Тасань","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0564773,14.3422874]},"properties":{"name":"ជាំ","name:en":"Cheung Phnum","name:km":"ជើងភ្នំ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7360511,13.7743321]},"properties":{"addr:postcode":"1050903","name":"អូរបីជាន់","name:en":"Ou Beichoan","name:kh":"អូរបីជាន់","name:th":"อูรบีชาน","place":"village","wikipedia":"en:Ou Beichoan Commune"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4411865,13.5720338]},"properties":{"name":"บ้านโนนสาวเอ้","name:en":"Ban Non Sao Ae","name:th":"บ้านโนนสาวเอ้","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.7409005,13.8171868]},"properties":{"addr:postcode":"1050905","name":"ព្រៃចាន់","name:en":"Prey Chan","name:kh":"ព្រៃចាន់","name:th":"ไพรจาน","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9645993,14.3882028]},"properties":{"name":"អានសេះ","name:en":"An Ses","name:kh":"អានសេះ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0681412,12.6034336]},"properties":{"name":"ភូមិរលាំងបណ្តោយ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6987248,12.4574683]},"properties":{"name":"ថ្លុកដង្កោ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7499688,12.454422]},"properties":{"name":"តាសាស់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8416583,12.5680158]},"properties":{"name":"ស្នាមព្រះ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.591006,12.4824586]},"properties":{"name":"រហាលទិល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.783289,12.5692947]},"properties":{"name":"បឹងប្រី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7852151,12.4611116]},"properties":{"name":"បាក់ចិញ្ចៀន","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0515752,12.5959073]},"properties":{"name":"រលួស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.801968,12.489772]},"properties":{"name":"ដំណាក់អំពិល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0154188,12.4304387]},"properties":{"name":"ទទឹងថ្ងៃ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9166056,12.4816271]},"properties":{"name":"រលាប","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8702709,12.5409683]},"properties":{"name":"ឃ្លាំងមឿង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8524886,12.5073173]},"properties":{"name":"វត្តលួង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8208338,12.5063471]},"properties":{"name":"ដប់បាត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7525818,12.3865008]},"properties":{"name":"សំរោង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7365176,12.3516863]},"properties":{"name":"ព្រែកមួយ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7630639,12.3386336]},"properties":{"name":"រកាត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8070924,12.4025985]},"properties":{"name":"ព្រងិល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8214877,12.4124436]},"properties":{"name":"ស្វាយប៉ាក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8885708,12.4580835]},"properties":{"name":"ទួលគ្រួស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7205941,12.3926158]},"properties":{"name":"ផ្ទះរុង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.916037,12.2689445]},"properties":{"name":"ប៉ែតសិប","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9556264,12.2730435]},"properties":{"name":"ដីក្រហម","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.9701969,12.2834646]},"properties":{"name":"អូរកង់ឡាន","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.016836,12.279982]},"properties":{"name":"អន្លង់រាប","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0538985,12.2807967]},"properties":{"name":"ភូមិកណ្តាល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3901311,12.3708935]},"properties":{"name":"ចិនយំ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3651862,12.3768262]},"properties":{"name":"០៧","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3366372,12.3759961]},"properties":{"name":"ទួលគ្រួស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2776231,12.3852097]},"properties":{"name":"តាំងយ៉","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2321231,12.3718751]},"properties":{"name":"ដូននាគ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1488075,12.3298969]},"properties":{"name":"ស្ទឹងថ្មី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0063581,12.5787645]},"properties":{"name":"វាលចំបាំង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0466965,12.6480947]},"properties":{"name":"អក្សរតេ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5633113,13.6180355]},"properties":{"name":"บ้านอาจารย์จู","name:th":"บ้านอาจารย์จู","place":"village","short_name":"บ้านจารย์จู","short_name:th":"บ้านจารย์จู"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5678711,13.6374084]},"properties":{"name":"บ้านวังมน","name:th":"บ้านวังมน","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7978471,12.6476059]},"properties":{"name":"បឺងបត់កណ្តោល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7583159,13.0103456]},"properties":{"name":"ក្បាលតោល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.687976,12.5985431]},"properties":{"name":"រំលេច","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7249614,12.5932331]},"properties":{"name":"ខ្នារទទឹង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.8672086,12.2037117]},"properties":{"name":"ស្ទឹងកាច់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8205639,12.4865667]},"properties":{"name":"ក្តីខ្វាវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8506776,12.4906527]},"properties":{"name":"ចំរើនផល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9142381,12.5179766]},"properties":{"name":"លលកស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9393163,12.5068323]},"properties":{"name":"ទួលវែង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9589824,12.5347537]},"properties":{"name":"ក្រាំងតាសែន","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9854068,12.5525542]},"properties":{"name":"កែវមុន្នី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0786069,12.5279948]},"properties":{"name":"បឹងកន្ទួត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1072415,12.5285765]},"properties":{"name":"អូរសណ្តាន់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1387729,12.529237]},"properties":{"name":"ស្នាអន្សា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1483963,12.5292003]},"properties":{"name":"វាលសម្តេចយស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.2140563,12.587554]},"properties":{"name":"កំពង់លួង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3803795,12.4723346]},"properties":{"name":"ក្បាលដំរី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8207622,12.2675861]},"properties":{"name":"ក្សេតបុរី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5875413,13.7158671]},"properties":{"alt_name":"Phum Kok Phnov","description":"The site of a possible circular ancient village with two sites of interested to the northeast Prasat Ta Ma and it's associated reservoir Baray Prasat Ta Ma.","name":"Phum Kok Phneou   (Ancient Village)","name:km":"ភូមិគោកព្នៅ","note":"13.71581, 103.58752","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.72234,13.6351416]},"properties":{"addr:city":"Romiet, Nokor Pheas, Angkor Chum, Siem Reap","description":"According to satellite imagery, there appears to be a circular village, that are likely to be traces of an ancient settlement. To the northeast is a rectangular man-made reservoir that we have listed as C1701144, and 250m to the northwest is Prasat Chrani","name":"Phum Romiet   (Ancient Village)","name:km":"ភូមិរមៀត","note":"13.63536, 103.72248\nPart of\tPhum Romiet","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1478203,12.2491862]},"properties":{"name":"ក្បាលទាហាន","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0371069,12.4782307]},"properties":{"name":"ឈូកមាស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0168441,12.4418362]},"properties":{"name":"បឹងវាល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7403693,13.6498748]},"properties":{"addr:city":"Kcha, Kok Doung, Angkor Chum, Siem Reap","description":"According to satellite imagery, there appears to be a circular village, that are likely to be traces of an ancient settlement.","name":"Phum Kcha   (Ancient Villlage)","name:km":"ភូមិខ្ចារ","note":"13.64984, 103.74043\nVerification\tUnconfirmed","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6762396,13.6644477]},"properties":{"addr:city":"Kok Chan, Ta Saom, Angkor Chum, Siem Reap","alt_name":"Phum Kauk Tchan, Phum Kok Tchan","description":"The site of a modern village that appears to be have been inhabited since ancient times, as the village resembles a circular village surrounded by what appears to be a moat. There is a small Neak Ta Phum Kok Chan shrine within the village which houses a n","name":"Phum Kok Chan   (Ancient Village)","name:km":"ភូមិគោកចាន់","note":"13.66444, 103.67625\nPart of\tPhum Kok Chan","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9164022,12.5729673]},"properties":{"name":"ពោធិ៍វង្ស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7403812,12.6954363]},"properties":{"name":"មេទឹក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4131039,12.560529]},"properties":{"name":"រូង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7332019,13.6470697]},"properties":{"addr:city":"Lbeuk, Kok Doung, Angkor Chum, Siem Reap province","description":"According to satellite imagery, there appears to be a circular village, that are likely to be traces of an ancient settlement. To the east is an ancient rectangular man-made reservoir Trapeang Lbeuk (Angkor Chum)","name":"Phum Lbeuk   (Ancient Village)","note":"13.64713, 103.73332\nPart of\tPhum Lbeuk","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5074667,12.3242051]},"properties":{"name":"អូរលាក់មាស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.891204,13.5365032]},"properties":{"addr:city":"Bampenh Reach, Leang Dai, Angkor Thom, Siem Reap province","description":"The site of a ancient village by the Siem Reap River.","name":"Bampenh Reach   (Ancient Village)","name:km":"បំពេញរាជ្យ","note":"13.53648, 103.89125","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8326568,13.5388961]},"properties":{"addr:city":"Kandaol,\tSvay Chek, Angkor Thom, Siem Reap province","addr:street":"13.53890, 103.83284","description":"Early reports of an ancient village, however no remnants have been found.","name":"Tuol Kok Chhouk   (Ancient Village)","name:km":"ទួលគោកឈូក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8761979,13.5884762]},"properties":{"addr:city":"Peak Snaeng, Peak Snaeng, Angkor Thom, Siem Reap province","addr:street":"13.58846, 103.87627","alt_name":"Tuol Kok Krous","description":"The site of a ancient village with no apparent remains. However based on the satellite imagery, it may be possible that to the west of this site lays the remains of a moated enclosure which now houses a modern day Wat.","name":"Tuol Kok Kroes   (Ancient Village)","name:km":"ទួលគោកគ្រឹះ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.873003,13.5515078]},"properties":{"addr:city":"Spean Thmei, Leang Dai, Angkor Thom, Siem Reap province","description":"Reported to have evidence of an ancient village. However no notable traces have been found or confirmed.","name":"Tuol Kok Ta Neth   (Ancient Village)","name:km":"ទួលគោកតានេតR","note":"13.55142, 103.87311","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4452444,12.3676742]},"properties":{"name":"អូរដេកា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.55254,12.4941167]},"properties":{"name":"ប្រហាល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5568844,12.5047101]},"properties":{"name":"ស្វាយយ៉","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5254941,12.5387482]},"properties":{"name":"ស្តុកប្រវឹក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.490735,12.6028427]},"properties":{"name":"ព្រៃខ្លូត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4840389,12.6758916]},"properties":{"name":"ចាមរអា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5483063,12.7133384]},"properties":{"name":"កាឡោមផ្លុក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5421195,12.7001295]},"properties":{"name":"ស្រម៉មាស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6047707,12.700562]},"properties":{"name":"ថ្នល់បត់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5840005,12.6530566]},"properties":{"name":"ស្រះឈើនាង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5757248,12.5521375]},"properties":{"name":"ឫស្សីក្រាំង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6051606,12.5608492]},"properties":{"name":"មុខរាហ៍","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0590968,12.6205792]},"properties":{"name":"កញ្ជរ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0068376,12.6228751]},"properties":{"name":"បន្ទាយយួន","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3279931,12.56853]},"properties":{"name":"បាសាក់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6356058,12.8030748]},"properties":{"name":"អ្នកតាទ្វា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3180157,12.4961386]},"properties":{"name":"អន្សាចំបក់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6677965,12.4168251]},"properties":{"name":"ជ្រៃក្រឹម","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6417636,12.3202916]},"properties":{"name":"វាលនិន្រ្ទា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4128515,12.471688]},"properties":{"name":"ត្រពាំងចាន់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3938688,12.3674163]},"properties":{"name":"ពេជ្រចង្វារ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4546639,12.5059471]},"properties":{"name":"ឆ្នុកទ្រូ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1125966,12.577625]},"properties":{"name":"អូរតាប្រ៉ុក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0901022,12.5808872]},"properties":{"name":"កំពង់ពោធិ៍","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8368043,12.6275569]},"properties":{"name":"ខ្មារ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8632445,12.5742311]},"properties":{"name":"អន្លង់មាន","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6798065,12.6034412]},"properties":{"name":"កូនត្នោត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0747656,12.1508762]},"properties":{"name":"ដំណាក់ត្រយឹង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9906293,12.2011904]},"properties":{"name":"រាំងខ្វាវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8901958,12.7008514]},"properties":{"name":"ទួលគូរ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.1773808,14.3301429]},"properties":{"name":"ជប់គគីរ","name:en":"Chup Koki","name:km":"ជប់គគីរ","name:th":"จุ๊บโกกี","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4562536,13.9024148]},"properties":{"name":"ដងផ្លិត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7807779,14.0848611]},"properties":{"name":"កំពង់ស្រឡៅ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1937211,14.2210562]},"properties":{"name":"មំុបី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.2002691,14.3317051]},"properties":{"name":"តេជោមរកត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8032426,14.4291713]},"properties":{"name":"បុស្សស្បូវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7167684,14.4268194]},"properties":{"name":"តាថាវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6692044,14.3791028]},"properties":{"name":"អង្គ្រង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.855432,12.0701503]},"properties":{"name":"ឡាប៉ាខេ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0310832,13.9201549]},"properties":{"name":"ត្រពាំងគ្រៀល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0038278,13.8813324]},"properties":{"name":"អូរស្វាយ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9631576,13.8995225]},"properties":{"name":"ព្រះរំកិល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.741386,13.504161]},"properties":{"name":"រំដេង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7102921,13.6422495]},"properties":{"name":"មន","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6597826,13.767436]},"properties":{"name":"វាលដេញ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5860992,13.7836367]},"properties":{"name":"ស្រឡៅ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0060551,13.7096017]},"properties":{"name":"ជាំធំ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9594481,13.3612856]},"properties":{"name":"ស្រែក្រសាំង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0539715,13.112284]},"properties":{"name":"កេាះសាមសិប","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.1771237,12.8429702]},"properties":{"name":"ក្បាលដំរី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0177565,12.6892358]},"properties":{"name":"សណ្តាន់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5506185,12.2520962]},"properties":{"name":"ភូមិទ្រា","name:km":"ភូមិទ្រា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0178914,11.7839315]},"properties":{"name":"ស្អំ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.9774839,11.6703689]},"properties":{"name":"ត្រពាំងផ្លុង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.0795109,12.2994047]},"properties":{"name":"អូរកំបោរ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4912703,13.0021041]},"properties":{"name":"บ้านเนินแดง","name:th":"บ้านเนินแดง","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.4861714,13.0071567]},"properties":{"name":"บ้านหนองกระทิง","name:th":"บ้านหนองกระทิง","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8877601,12.5888418]},"properties":{"name":"កេាះជំុ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9503966,12.6617155]},"properties":{"name":"ស្រែស្តុក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5879686,12.3626968]},"properties":{"name":"បែកអន្លង់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0027889,13.3058184]},"properties":{"name":"ភ្នំដែក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0038315,13.2787416]},"properties":{"name":"រំចេក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1077098,13.3160377]},"properties":{"name":"ស្រែធំ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1969497,13.5164822]},"properties":{"name":"ពុទ្រា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9797247,13.981583]},"properties":{"name":"ក្រឡាពាល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.7965461,14.2350331]},"properties":{"name":"ត្រពាំងសង្កែ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.6543946,13.1248354]},"properties":{"name":"តាក្រី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.462699,13.5604029]},"properties":{"name":"អូរសំព័រ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5132428,13.3828752]},"properties":{"name":"ត្រាវជូរ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4390851,12.3153177]},"properties":{"name":"ប្រសិត","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6271455,12.6812362]},"properties":{"name":"ទួលអ្នកគ្រូ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1142567,12.5555631]},"properties":{"name":"ពុទ្រ្ទាម","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1332649,12.3332111]},"properties":{"name":"ស្វាយស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1440495,12.3845097]},"properties":{"name":"លាំងត្រាច","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0630698,12.3735645]},"properties":{"name":"ដំបូក១០០","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.5292732,11.6293458]},"properties":{"name":"ស្ទឹងអារ៉ែង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1828418,12.4926846]},"properties":{"name":"ខ្លាក្រពើ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.2670805,14.3268698]},"properties":{"name":"តាមាន់សែនជ័យ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.3216174,14.3519946]},"properties":{"name":"ថ្មដូន","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4313447,14.3488822]},"properties":{"name":"ត្រពាំងត្រាវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.4519062,14.3327023]},"properties":{"name":"អូរបាត់ដាវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.6475605,14.3629723]},"properties":{"name":"ផ្អុង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7895238,14.3387877]},"properties":{"name":"ដងទង់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3429284,14.1117418]},"properties":{"name":"ដីក្រហម","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1898541,14.2254847]},"properties":{"name":"ផ្អាវ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4102593,14.2445279]},"properties":{"name":"បាក់អន្លង់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4560193,14.2846145]},"properties":{"name":"ទំនប់ដាច់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.6025728,14.0353873]},"properties":{"name":"ជាំស្រែ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1938657,12.9091823]},"properties":{"name":"បារៀង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1978664,10.9118822]},"properties":{"name":"កេាះរកា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1792704,10.9133149]},"properties":{"name":"ក្អមសំណរ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1047387,10.9239118]},"properties":{"name":"បាក់ណាម","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.5906249,11.0347843]},"properties":{"name":"អង្គរការ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.4968237,11.0758448]},"properties":{"name":"ត្រពាំងអណ្តើក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1646808,11.8042894]},"properties":{"name":"ត្រពាំងជោ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7841969,13.7286922]},"properties":{"name":"ដូនអែម","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0507457,14.1055261]},"properties":{"name":"រំចេក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.5733948,11.9603457]},"properties":{"name":"Suối Thôn","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.5822168,11.9339574]},"properties":{"name":"Hoa Lư","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.567734,11.9330971]},"properties":{"name":"Ấp 7","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.6627941,11.9411351]},"properties":{"name":"Ấp 8","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7223393,12.4537224]},"properties":{"name":"ស្រែក្រូច","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5216393,12.2766006]},"properties":{"name":"មាឃ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.8460378,13.6157303]},"properties":{"name":"ស្រែឫស្សី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.0234439,13.7125122]},"properties":{"name":"កេាះកី","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.2307919,12.2358217]},"properties":{"name":"សំព័រ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.3004166,12.2366811]},"properties":{"name":"តាអុង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.5579956,12.8912838]},"properties":{"name":"ពោធិ៍រោង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.582339,12.8991012]},"properties":{"name":"ភូមិក្រាំង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.2591248,12.5757115]},"properties":{"name":"ក្រយ៉ា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0325693,12.5245346]},"properties":{"name":"ព្នៅ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0165022,12.5234023]},"properties":{"name":"កងមាស","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9401687,12.1354097]},"properties":{"name":"ត្រប់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9712624,12.1233433]},"properties":{"name":"សណ្តែក","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9750304,12.0797871]},"properties":{"name":"ទំនប់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9394446,12.0428969]},"properties":{"name":"ព្រៃកោ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.9449071,12.060897]},"properties":{"name":"ឃំុជើងព្រៃ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.0534654,12.172784]},"properties":{"name":"ព្រីងជ្រំ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.060779,12.2021111]},"properties":{"name":"កេាះចំប៉ា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.1788667,12.1456356]},"properties":{"name":"អ្នកតាស្នឹង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8870647,11.9772738]},"properties":{"name":"ទួល","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7343856,11.9257431]},"properties":{"name":"ល្ងៀង","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.6796996,12.0441204]},"properties":{"name":"រកាពប្រាំ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[107.5518335,12.4255104]},"properties":{"name":"ណាមលា","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.9389826,12.5647155]},"properties":{"name":"វត្តពោធិ៍","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7959205,12.6670365]},"properties":{"name":"ដូងជ្រំុ","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.7262479,11.9442184]},"properties":{"name":"Tân Phong","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.7166706,11.9373898]},"properties":{"name":"Tân Lợi","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.7085823,11.9512655]},"properties":{"name":"Tân Hội","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.7856285,12.0327606]},"properties":{"name":"Phước Tiến","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.7624235,11.9757257]},"properties":{"name":"Ấp 3","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[106.8334238,12.0418696]},"properties":{"name":"Ấp 3","place":"village","place:VI":"Ấp"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.0251074,12.4470102]},"properties":{"name":"ត្រាំម្នាស់","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[104.1713311,12.1748789]},"properties":{"name":"ច្រកល្អៀង","place":"village"}}
