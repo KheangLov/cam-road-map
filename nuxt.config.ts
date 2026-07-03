@@ -1,3 +1,5 @@
+import { fileURLToPath } from 'node:url'
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   compatibilityDate: '2025-06-30',
@@ -29,6 +31,9 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       // Path to the single PMTiles archive produced by the data pipeline.
+      // Served via a server route (not a static public asset): PMTiles needs
+      // real HTTP byte-range responses, which neither Nitro's static-asset
+      // handler nor Vercel's static hosting reliably provide.
       pmtilesUrl: process.env.NUXT_PUBLIC_PMTILES_URL || '/api/data/cambodia.pmtiles',
       // Free vector basemap style (no API token required).
       basemapStyleUrl: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json',
@@ -37,18 +42,16 @@ export default defineNuxtConfig({
     },
   },
 
-  routeRules: {
-    '/api/data/**.pmtiles': {
-      headers: {
-        'accept-ranges': 'bytes',
-        'content-type': 'application/vnd.pmtiles',
-      },
-    },
-  },
-
   nitro: {
-    // PMTiles uses HTTP byte-range requests; compressed public assets break range reads.
-    compressPublicAssets: false,
+    // Bundles the pmtiles file into the server output itself (rather than reading
+    // it from `public/` at request time), so it's readable from the route handler
+    // on Vercel too, where `public/` is deployed to the CDN, not the function's
+    // filesystem.
+    serverAssets: [{
+      baseName: 'pmtiles',
+      dir: fileURLToPath(new URL('./public/data', import.meta.url)),
+      pattern: 'cambodia.pmtiles',
+    }],
   },
 
   vite: {
