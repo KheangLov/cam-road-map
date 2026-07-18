@@ -13,7 +13,13 @@ const emit = defineEmits<{
 }>()
 
 const state = useMapState()
+// Start collapsed on small screens so the panel doesn't cover the whole map
+// (and the search bar underneath it) the moment the page loads; desktop
+// keeps the previous always-open default.
 const open = ref(true)
+onMounted(() => {
+  if (window.innerWidth < 640) open.value = false
+})
 const isEnglishLabel = computed(() => props.modelValue === 'en')
 const isKhmerLabel = computed(() => props.modelValue === 'km')
 
@@ -25,6 +31,9 @@ const text = computed(() => props.modelValue === 'km'
       roadStatus: 'ស្ថានភាពផ្លូវ',
       adminBoundaries: 'ព្រំដែនរដ្ឋបាល',
       labels: 'ភាសាស្លាក',
+      theme: 'រូបរាង',
+      light: 'ភ្លឺ',
+      dark: 'ងងឹត',
     }
   : {
       layers: 'Layers',
@@ -33,7 +42,13 @@ const text = computed(() => props.modelValue === 'km'
       roadStatus: 'Road status',
       adminBoundaries: 'Administrative boundaries',
       labels: 'Labels',
+      theme: 'Theme',
+      light: 'Light',
+      dark: 'Dark',
     })
+
+const isLightTheme = computed(() => state.theme.value === 'light')
+const isDarkTheme = computed(() => state.theme.value === 'dark')
 
 const surfaceTextKm: Record<string, { label: string, description: string, hint: string }> = {
   asphalt: {
@@ -171,6 +186,24 @@ function adminLabel(level: keyof typeof ADMIN_LABEL) {
           >ខ្មែរ</button>
         </div>
       </fieldset>
+
+      <fieldset class="panel__group">
+        <legend>{{ text.theme }}</legend>
+        <div class="panel__seg">
+          <button
+            type="button"
+            :class="{ 'is-active': isLightTheme }"
+            :aria-pressed="isLightTheme"
+            @click="state.setTheme('light')"
+          >☀ {{ text.light }}</button>
+          <button
+            type="button"
+            :class="{ 'is-active': isDarkTheme }"
+            :aria-pressed="isDarkTheme"
+            @click="state.setTheme('dark')"
+          >☾ {{ text.dark }}</button>
+        </div>
+      </fieldset>
     </div>
   </section>
 </template>
@@ -181,6 +214,12 @@ function adminLabel(level: keyof typeof ADMIN_LABEL) {
   top: 1rem;
   left: 1rem;
   width: 240px;
+  // 1rem top + 1rem bottom clearance so the panel can never grow past the
+  // viewport (short windows, phone landscape, a lot of expanded layers…) —
+  // the body scrolls internally instead once it hits this cap.
+  max-height: calc(100dvh - 2rem);
+  display: flex;
+  flex-direction: column;
   background: $color-surface;
   border-radius: $radius;
   box-shadow: $shadow;
@@ -193,6 +232,7 @@ function adminLabel(level: keyof typeof ADMIN_LABEL) {
     justify-content: space-between;
     padding: 0.6rem 0.85rem;
     border-bottom: 1px solid $color-border;
+    flex: none;
   }
 
   &__title {
@@ -217,6 +257,11 @@ function adminLabel(level: keyof typeof ADMIN_LABEL) {
     display: flex;
     flex-direction: column;
     gap: 0.85rem;
+    overflow-y: auto;
+    // Lets a flex child actually shrink and scroll instead of forcing the
+    // panel taller than its `max-height` cap (flex items default to
+    // min-height: auto, which ignores overflow).
+    min-height: 0;
   }
 
   &__group {
@@ -310,7 +355,7 @@ function adminLabel(level: keyof typeof ADMIN_LABEL) {
 
       &.is-active {
         background: $color-accent;
-        color: #fff;
+        color: $color-bg;
       }
     }
   }
@@ -319,6 +364,10 @@ function adminLabel(level: keyof typeof ADMIN_LABEL) {
 @media (max-width: 600px) {
   .panel {
     width: calc(100vw - 2rem);
+    // The search bar sits centered at the same top:1rem, full-width on
+    // mobile too — stack below it instead of covering it.
+    top: 4rem;
+    max-height: calc(100dvh - 5rem);
   }
 }
 </style>

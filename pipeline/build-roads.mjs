@@ -20,8 +20,11 @@ export async function buildRoads() {
   // Keep only ways tagged highway=* (built, construction, proposed).
   run('osmium', ['tags-filter', pbf, 'w/highway', '-o', roadsPbf, '--overwrite'])
 
-  // Export to a GeoJSON sequence with all tags as feature properties.
-  run('osmium', ['export', roadsPbf, '-f', 'geojsonseq', '-o', rawSeq, '--overwrite'])
+  // Export to a GeoJSON sequence with all tags as feature properties, plus the
+  // real OSM way id/version (`-a`, not `-u/--add-unique-id`, which would mint
+  // a synthetic id instead) — needed so road edits (pipeline/overrides/) and
+  // the routing graph can key off a stable identifier across weekly rebuilds.
+  run('osmium', ['export', roadsPbf, '-f', 'geojsonseq', '-a', 'type,id,version', '-o', rawSeq, '--overwrite'])
 
   const written = await transform(rawSeq, outJsonl)
   console.log(`✓ roads: ${written} features → ${outJsonl}`)
@@ -54,6 +57,8 @@ async function transform(src, dest) {
         type: 'Feature',
         geometry: feat.geometry,
         properties: {
+          id: tags['@id'],
+          osmVersion: tags['@version'],
           status: derived.status,
           highway: derived.highway,
           ref: refOf(tags),

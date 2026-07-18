@@ -1,6 +1,7 @@
 import type { Map as MlMap, MapGeoJSONFeature, LngLatBoundsLike } from 'maplibre-gl'
 import type { RoadStatus, AdminLevel } from '~/types'
 import { SOURCE_LAYER } from '~/types'
+import type { MapTheme } from '~/utils/mapConfig'
 import {
   CAMBODIA_BOUNDS,
   CAMBODIA_CENTER,
@@ -9,16 +10,27 @@ import {
   ADMIN_MIN_ZOOM,
   ROAD_STATUSES,
   ADMIN_LEVELS,
+  ROAD_LABEL_TEXT_COLOR,
+  LABEL_HALO_COLOR,
+  VILLAGE_CIRCLE_STROKE_COLOR,
 } from '~/utils/mapConfig'
 import type { LabelLang } from '~/composables/useMapState'
+import {
+  ASPHALT_SURFACES,
+  CONCRETE_SURFACES,
+  UNPAVED_SURFACES,
+  surfaceCategory,
+} from '~/shared/surfaceCategory.mjs'
 
 const PMTILES_SOURCE = 'cambodia'
-const VILLAGE_SOURCE_LAYER_CANDIDATES = [
-  SOURCE_LAYER.villages,
-  'village',
-  'places',
-  'settlements',
-]
+
+/** One entry of the static `public/data/villages-index.json` search index. */
+interface VillageIndexEntry {
+  name_en?: string
+  name_km?: string
+  lng: number
+  lat: number
+}
 
 /** Dash pattern per status; omitted (solid) for built roads. */
 const STATUS_DASH: Partial<Record<RoadStatus, [number, number]>> = {
@@ -37,9 +49,6 @@ const ROAD_SURFACE_COLOR: Record<RoadSurfaceCategory, string> = {
 
 const ROAD_LABEL_MIN_ZOOM = 11
 const SEARCH_RESULT_LIMIT = 16
-const ASPHALT_SURFACES = ['asphalt', 'paved', 'chipseal']
-const CONCRETE_SURFACES = ['concrete', 'concrete:lanes', 'concrete:plates']
-const UNPAVED_SURFACES = ['unpaved', 'compacted', 'fine_gravel', 'gravel', 'dirt', 'earth', 'ground', 'sand']
 
 export const ROAD_SURFACE_LEGEND_HINT = 'Road colors show surface type when available. Dashed lines still show roads under construction or proposed.'
 
@@ -103,20 +112,32 @@ function adminLineId(l: AdminLevel) {
 function adminLabelId(l: AdminLevel) {
   return `${l}-label`
 }
-function villageCircleId(sourceLayer: string) {
-  return `village-${sourceLayer}-circle`
-}
-function villageLabelId(sourceLayer: string) {
-  return `village-${sourceLayer}-label`
-}
+const villageCircleId = 'village-circle'
+const villageLabelId = 'village-label'
+
+type RoadMapApi = ReturnType<typeof buildRoadMap>
+
+let sharedRoadMap: RoadMapApi | null = null
 
 /**
  * Owns the MapLibre instance for the Cambodia road + boundary map.
  * Client-only: call `createMap` from `onMounted`.
+ *
+ * Returns one shared instance app-wide (memoized on first call) so
+ * `MapView`, `SearchBox`, `LayerPanel`, etc. all read/control the same
+ * underlying map — they're siblings in the component tree, so `provide`/
+ * `inject` (which only flows to descendants) can't be used to share it.
  */
-export function useRoadMap() {
+export function useRoadMap(): RoadMapApi {
+  if (!sharedRoadMap) sharedRoadMap = buildRoadMap()
+  return sharedRoadMap
+}
+
+function buildRoadMap() {
   const config = useRuntimeConfig()
   let map: MlMap | null = null
+  let villagesIndex: VillageIndexEntry[] = []
+  let currentTheme: MapTheme = 'dark'
   const roadSurfaceLegend = ROAD_SURFACE_LEGEND
   const roadSurfaceLegendHint = ROAD_SURFACE_LEGEND_HINT
 
@@ -125,17 +146,27 @@ export function useRoadMap() {
     return new URL(value, window.location.origin).toString()
   }
 
+  const basemapUrlFor = (theme: MapTheme) => requiredPublicConfigValue(
+    theme === 'dark' ? 'basemapStyleUrlDark' : 'basemapStyleUrl',
+    theme === 'dark' ? config.public.basemapStyleUrlDark : config.public.basemapStyleUrl,
+  )
+
+  /** Fire-and-forget: populates `villagesIndex` once the small static file lands. */
+  function loadVillagesIndex() {
+    fetch(toBrowserUrl('/data/villages-index.json'))
+      .then((r) => (r.ok ? r.json() : []))
+      .then((data: VillageIndexEntry[]) => { villagesIndex = data })
+      .catch(() => {})
+  }
+
   const roadSublabel = (ref: string, name: string, surfaceLabel: string) => {
     const parts = [ref && name ? ref : '', surfaceLabel].filter(Boolean)
     return parts.length ? parts.join(' - ') : undefined
   }
 
   const getRoadSurfaceCategory = (properties: MapGeoJSONFeature['properties']): RoadSurfaceCategory => {
-    const surface = featureText(properties, ['surface', 'surface_type', 'pavement']).toLocaleLowerCase()
-    if (ASPHALT_SURFACES.includes(surface)) return 'asphalt'
-    if (CONCRETE_SURFACES.includes(surface)) return 'concrete'
-    if (UNPAVED_SURFACES.includes(surface)) return 'unpaved'
-    return 'unknown'
+    const surface = featureText(properties, ['surface', 'surface_type', 'pavement'])
+    return surfaceCategory(surface) as RoadSurfaceCategory
   }
 
   const getRoadSurfaceLabel = (properties: MapGeoJSONFeature['properties']) => {
@@ -158,7 +189,7 @@ export function useRoadMap() {
     ROAD_SURFACE_COLOR.unknown,
   ]
 
-  async function createMap(container: HTMLElement): Promise<MlMap> {
+  async function createMap(container: HTMLElement, theme: MapTheme = 'dark'): Promise<MlMap> {
     const maplibre = await import('maplibre-gl')
     const { Protocol } = await import('pmtiles')
 
@@ -166,14 +197,11 @@ export function useRoadMap() {
     const protocol = new Protocol()
     maplibre.addProtocol('pmtiles', protocol.tile)
 
-    const basemapStyleUrl = requiredPublicConfigValue(
-      'basemapStyleUrl',
-      config.public.basemapStyleUrl,
-    )
+    currentTheme = theme
 
     map = new maplibre.Map({
       container,
-      style: toBrowserUrl(basemapStyleUrl),
+      style: toBrowserUrl(basemapUrlFor(currentTheme)),
       center: CAMBODIA_CENTER,
       zoom: DEFAULT_ZOOM,
       maxBounds: padBounds(CAMBODIA_BOUNDS, 2),
@@ -201,6 +229,7 @@ export function useRoadMap() {
       map!.once('error', onError)
     })
     addDataLayers()
+    loadVillagesIndex()
     return map
   }
 
@@ -262,8 +291,8 @@ export function useRoadMap() {
           'text-ignore-placement': false,
         },
         paint: {
-          'text-color': '#243447',
-          'text-halo-color': '#ffffff',
+          'text-color': ROAD_LABEL_TEXT_COLOR[currentTheme],
+          'text-halo-color': LABEL_HALO_COLOR[currentTheme],
           'text-halo-width': 1.5,
           'text-halo-blur': 0.5,
         },
@@ -316,7 +345,7 @@ export function useRoadMap() {
         },
         paint: {
           'text-color': ADMIN_COLOR[level],
-          'text-halo-color': '#ffffff',
+          'text-halo-color': LABEL_HALO_COLOR[currentTheme],
           'text-halo-width': 1.4,
         },
       })
@@ -327,51 +356,49 @@ export function useRoadMap() {
 
   function addVillageLayers() {
     if (!map) return
-    for (const sourceLayer of VILLAGE_SOURCE_LAYER_CANDIDATES) {
-      map.addLayer({
-        id: villageCircleId(sourceLayer),
-        type: 'circle',
-        source: PMTILES_SOURCE,
-        'source-layer': sourceLayer,
-        minzoom: ADMIN_MIN_ZOOM.village,
-        layout: { visibility: 'none' },
-        paint: {
-          'circle-radius': [
-            'interpolate', ['linear'], ['zoom'],
-            12, 2.5,
-            15, 4,
-          ],
-          'circle-color': ADMIN_COLOR.village,
-          'circle-stroke-width': 0.8,
-          'circle-stroke-color': '#ffffff',
-        },
-      })
-      map.addLayer({
-        id: villageLabelId(sourceLayer),
-        type: 'symbol',
-        source: PMTILES_SOURCE,
-        'source-layer': sourceLayer,
-        minzoom: ADMIN_MIN_ZOOM.village,
-        layout: {
-          visibility: 'none',
-          'text-field': labelField('en'),
-          'text-size': [
-            'interpolate', ['linear'], ['zoom'],
-            12, 10,
-            15, 12,
-          ],
-          'text-offset': [0, 0.9],
-          'text-font': ['Open Sans Regular', 'Noto Sans Regular'],
-          'text-allow-overlap': false,
-          'text-ignore-placement': false,
-        },
-        paint: {
-          'text-color': ADMIN_COLOR.village,
-          'text-halo-color': '#ffffff',
-          'text-halo-width': 1.4,
-        },
-      })
-    }
+    map.addLayer({
+      id: villageCircleId,
+      type: 'circle',
+      source: PMTILES_SOURCE,
+      'source-layer': SOURCE_LAYER.villages,
+      minzoom: ADMIN_MIN_ZOOM.village,
+      layout: { visibility: 'none' },
+      paint: {
+        'circle-radius': [
+          'interpolate', ['linear'], ['zoom'],
+          12, 2.5,
+          15, 4,
+        ],
+        'circle-color': ADMIN_COLOR.village,
+        'circle-stroke-width': 0.8,
+        'circle-stroke-color': VILLAGE_CIRCLE_STROKE_COLOR[currentTheme],
+      },
+    })
+    map.addLayer({
+      id: villageLabelId,
+      type: 'symbol',
+      source: PMTILES_SOURCE,
+      'source-layer': SOURCE_LAYER.villages,
+      minzoom: ADMIN_MIN_ZOOM.village,
+      layout: {
+        visibility: 'none',
+        'text-field': labelField('en'),
+        'text-size': [
+          'interpolate', ['linear'], ['zoom'],
+          12, 10,
+          15, 12,
+        ],
+        'text-offset': [0, 0.9],
+        'text-font': ['Open Sans Regular', 'Noto Sans Regular'],
+        'text-allow-overlap': false,
+        'text-ignore-placement': false,
+      },
+      paint: {
+        'text-color': ADMIN_COLOR.village,
+        'text-halo-color': LABEL_HALO_COLOR[currentTheme],
+        'text-halo-width': 1.4,
+      },
+    })
   }
 
   function moveRoadLayersToTop() {
@@ -400,10 +427,7 @@ export function useRoadMap() {
     if (!map) return
     const v = visible ? 'visible' : 'none'
     const ids = level === 'village'
-      ? VILLAGE_SOURCE_LAYER_CANDIDATES.flatMap((sourceLayer) => [
-          villageCircleId(sourceLayer),
-          villageLabelId(sourceLayer),
-        ])
+      ? [villageCircleId, villageLabelId]
       : [adminFillId(level), adminLineId(level), adminLabelId(level)]
     for (const id of ids) {
       if (map.getLayer(id)) map.setLayoutProperty(id, 'visibility', v)
@@ -415,12 +439,41 @@ export function useRoadMap() {
     const field = labelField(lang)
     for (const level of ADMIN_LEVELS) {
       const ids = level === 'village'
-        ? VILLAGE_SOURCE_LAYER_CANDIDATES.map(villageLabelId)
+        ? [villageLabelId]
         : [adminLabelId(level)]
       for (const id of ids) {
         if (map.getLayer(id)) map.setLayoutProperty(id, 'text-field', field as never)
       }
     }
+  }
+
+  /**
+   * Swapping the CARTO basemap alone isn't enough: `setStyle` replaces the
+   * whole style, including our pmtiles source and every layer built on top
+   * of it (they're not part of either CARTO style JSON, so the built-in
+   * style diff drops them). So this re-runs `addDataLayers` once the new
+   * style — and, importantly, its own sources — have actually finished
+   * loading; the caller is responsible for re-applying visibility/label
+   * state afterward, same as after `createMap`.
+   */
+  function setTheme(theme: MapTheme): Promise<void> {
+    if (!map || theme === currentTheme) return Promise.resolve()
+    currentTheme = theme
+    const target = map
+    return new Promise((resolveTheme) => {
+      // 'idle' (unlike 'styledata') only fires once nothing is still loading,
+      // so it can't fire prematurely mid-swap the way polling
+      // `isStyleLoaded()` off of 'styledata' could — that raced on a second
+      // consecutive theme switch (cached style JSON loaded fast enough that
+      // a stale 'styledata' tick reported the *old* style as "loaded",
+      // triggering `addDataLayers` a beat before the swap actually landed,
+      // wiping out the freshly-added layers with nothing left to re-trigger).
+      target.once('idle', () => {
+        addDataLayers()
+        resolveTheme()
+      })
+      target.setStyle(toBrowserUrl(basemapUrlFor(theme)))
+    })
   }
 
   function fitToCambodia() {
@@ -436,7 +489,7 @@ export function useRoadMap() {
     const layers = [
       ...ROAD_STATUSES.map(roadLayerId),
       ...ADMIN_LEVELS.filter((level) => level !== 'village').map(adminFillId),
-      ...VILLAGE_SOURCE_LAYER_CANDIDATES.map(villageCircleId),
+      villageCircleId,
     ]
     map.on('click', (e) => {
       const feats = map!.queryRenderedFeatures(e.point, { layers: layers.filter((l) => map!.getLayer(l)) })
@@ -480,26 +533,41 @@ export function useRoadMap() {
     }
 
     for (const level of ADMIN_LEVELS) {
-      const sourceLayers = level === 'village'
-        ? VILLAGE_SOURCE_LAYER_CANDIDATES
-        : [SOURCE_LAYER[level]]
-      for (const sourceLayer of sourceLayers) {
-        for (const f of map.querySourceFeatures(PMTILES_SOURCE, { sourceLayer })) {
-          const en = featureText(f.properties, ['name_en', 'name'])
-          const km = featureText(f.properties, ['name_km', 'name:km'])
-          const pcode = featureText(f.properties, ['pcode', 'code'])
-          if (!normalizeSearch(`${en} ${km} ${pcode}`).includes(q)) continue
-          const key = `admin:${level}:${pcode || en || km}`
-          if (seen.has(key)) continue
-          const bbox = bboxOf(f)
-          if (!bbox) continue
-          seen.add(key)
-          out.push({ kind: 'admin', label: en || km, sublabel: pcode || undefined, bbox })
-          if (out.length >= SEARCH_RESULT_LIMIT) break
-        }
+      if (level === 'village') continue
+      for (const f of map.querySourceFeatures(PMTILES_SOURCE, { sourceLayer: SOURCE_LAYER[level] })) {
+        const en = featureText(f.properties, ['name_en', 'name'])
+        const km = featureText(f.properties, ['name_km', 'name:km'])
+        const pcode = featureText(f.properties, ['pcode', 'code'])
+        if (!normalizeSearch(`${en} ${km} ${pcode}`).includes(q)) continue
+        const key = `admin:${level}:${pcode || en || km}`
+        if (seen.has(key)) continue
+        const bbox = bboxOf(f)
+        if (!bbox) continue
+        seen.add(key)
+        out.push({ kind: 'admin', label: en || km, sublabel: pcode || undefined, bbox })
         if (out.length >= SEARCH_RESULT_LIMIT) break
       }
+      if (out.length >= SEARCH_RESULT_LIMIT) break
     }
+
+    // Villages are searched from a small standalone index (loaded once, see
+    // `loadVillagesIndex`) rather than `querySourceFeatures`: they only render
+    // above zoom 12 and tippecanoe thins them out of coarse low-zoom tiles
+    // entirely, so tile-based search could never find a village from the
+    // default country-wide view.
+    for (const v of villagesIndex) {
+      if (out.length >= SEARCH_RESULT_LIMIT) break
+      if (!normalizeSearch(`${v.name_en ?? ''} ${v.name_km ?? ''}`).includes(q)) continue
+      const key = `admin:village:${v.name_en || v.name_km}:${v.lng}:${v.lat}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      out.push({
+        kind: 'admin',
+        label: v.name_en || v.name_km || '',
+        bbox: [v.lng, v.lat, v.lng, v.lat],
+      })
+    }
+
     return out.slice(0, SEARCH_RESULT_LIMIT)
   }
 
@@ -517,6 +585,7 @@ export function useRoadMap() {
     setStatusVisibility,
     setAdminVisibility,
     setLabelLang,
+    setTheme,
     fitToCambodia,
     flyToBounds,
     onClickFeature,

@@ -139,8 +139,15 @@ Keep both attributions visible in any deployment.
 ## Notes & limits
 
 - **Villages are points, not polygons** — open polygon data for villages isn't
-  available nationally, so they're rendered as labeled points (`place=village`).
-- **Search** matches features in currently-loaded tiles (a vector-tile limit);
-  zoom out for country-wide hits. A prebuilt search index could be added later.
+  available nationally, so they're rendered as labeled points (`place=village`),
+  and only above zoom 12 to keep the map readable.
+- **Search** for roads/provinces/districts/communes matches features in
+  currently-loaded tiles (a vector-tile limit); zoom out for country-wide hits.
+  Villages are the exception: since tippecanoe thins that many points out of
+  low-zoom tiles entirely, they're searched from a small standalone
+  `public/data/villages-index.json` (built alongside the tiles — see
+  `buildVillagesIndex` in `pipeline/build-tiles.mjs`) instead, so they're
+  findable regardless of current zoom/pan. The same prebuilt-index approach
+  could be extended to roads/adm2/adm3 later if that limit becomes a problem.
 - No backend is needed unless you later merge an authenticated government dataset
   or accept user-submitted edits — see the prompt's "optional backend fork."

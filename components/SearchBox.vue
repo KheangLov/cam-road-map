@@ -1,16 +1,13 @@
 <script setup lang="ts">
 import type { SearchResult } from '~/types'
 
-type SearchFn = (term: string) => SearchResult[]
-type FlyFn = (bbox: [number, number, number, number]) => void
 type AppLang = 'en' | 'km'
 
 const props = defineProps<{
   lang: AppLang
 }>()
 
-const searchFeatures = inject<SearchFn>('searchFeatures')
-const flyToBounds = inject<FlyFn>('flyToBounds')
+const roadMap = useRoadMap()
 
 const term = ref('')
 const results = ref<SearchResult[]>([])
@@ -18,13 +15,12 @@ const open = ref(false)
 const placeholder = computed(() => props.lang === 'km' ? 'ស្វែងរកផ្លូវ (NR1...) ឬទីកន្លែង' : 'Search roads (NR1...) or places')
 
 function runSearch() {
-  if (!searchFeatures) return
-  results.value = searchFeatures(term.value)
+  results.value = roadMap.search(term.value)
   open.value = results.value.length > 0
 }
 
 function pick(r: SearchResult) {
-  if (r.bbox && flyToBounds) flyToBounds(r.bbox)
+  if (r.bbox) roadMap.flyToBounds(r.bbox)
   open.value = false
   term.value = r.label
 }

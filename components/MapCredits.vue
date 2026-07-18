@@ -48,7 +48,7 @@ const text = computed(() => props.lang === 'km'
   gap: 0.75rem;
   align-items: center;
   padding: 0.25rem 0.6rem;
-  background: rgba($color-surface, 0.85);
+  background: $color-surface-translucent;
   border-top-right-radius: 6px;
   font-size: 0.7rem;
   color: $color-text-muted;
@@ -66,5 +66,16 @@ const text = computed(() => props.lang === 'km'
 
 @media (max-width: 600px) {
   .credits__updated { display: none; }
+
+  // Unconstrained width would let the attribution text run off the right
+  // edge of a narrow screen instead of wrapping — it has to stay visible
+  // (OSM/CARTO attribution is a license requirement, not just styling).
+  .credits {
+    right: 0;
+  }
+
+  .credits__attr {
+    min-width: 0;
+  }
 }
 </style>

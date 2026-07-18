@@ -1,5 +1,5 @@
 // Combine all geojsonl layers into a single cambodia.pmtiles archive.
-import { writeFileSync, existsSync } from 'node:fs'
+import { writeFileSync, existsSync, readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { config } from './config.mjs'
 import { ensureDirs, ensureTool, run, WORK, OUT_DATA, isoToday } from './lib/util.mjs'
@@ -40,6 +40,33 @@ export function buildTiles(layers) {
     JSON.stringify({ updatedAt: isoToday(), layers: Object.keys(layers) }, null, 2),
   )
   console.log(`\n✓ tiles → ${out}`)
+
+  buildVillagesIndex(layers.villages)
+}
+
+/**
+ * Villages only render/are queryable in the vector tiles above their zoom
+ * threshold, and tippecanoe thins dense point layers out of low-zoom tiles
+ * entirely — so search (which only looks at currently-loaded tiles) can
+ * never find a village from the default country-wide view. There are only
+ * ~1k village points nationally, so instead ship a tiny standalone index
+ * the app can search over regardless of zoom/pan state.
+ */
+function buildVillagesIndex(villagesFile) {
+  if (!villagesFile || !existsSync(villagesFile)) return
+  const lines = readFileSync(villagesFile, 'utf8').split('\n').filter(Boolean)
+  const index = []
+  for (const line of lines) {
+    const f = JSON.parse(line)
+    const nameEn = f.properties?.name_en
+    const nameKm = f.properties?.name_km
+    if (!nameEn && !nameKm) continue
+    const [lng, lat] = f.geometry.coordinates
+    index.push({ name_en: nameEn || undefined, name_km: nameKm || undefined, lng, lat })
+  }
+  const dest = resolve(OUT_DATA, 'villages-index.json')
+  writeFileSync(dest, JSON.stringify(index))
+  console.log(`✓ villages index: ${index.length} entries → ${dest}`)
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {

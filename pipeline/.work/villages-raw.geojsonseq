@@ -216,7 +216,7 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.9747355,13.6079494]},"properties":{"name":"La Bang Pir","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.10717,12.3320015]},"properties":{"name":"ឃុំទ្រៀល","name:en":"Triel","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[102.9552842,12.7077462]},"properties":{"name:en":"Chamlong koury village","place":"village"}}
-{"type":"Feature","geometry":{"type":"Point","coordinates":[103.27274800000001,10.6660696]},"properties":{"name":"ភូមិកោះតូច","name:en":"Koh Toch Village","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.272748,10.6660696]},"properties":{"name":"ភូមិកោះតូច","name:en":"Koh Toch Village","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[103.0719723,11.4609776]},"properties":{"name":"កោះ​ស្រឡៅ","name:en":"Kaoh Sralau","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[107.0010124,13.8173761]},"properties":{"name":"Tribal mirror","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.7920068,13.9525037]},"properties":{"fixme":"village name needed","name":"Loatian Village","place":"village"}}
@@ -654,7 +654,7 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.4369724,11.9480795]},"properties":{"name":"កំពង់ត្រុំក្រោម","name:en":"Kampong Trom Kraom","place":"village","population":"578"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.4356275,11.9440955]},"properties":{"name":"ស្វាយជ្រុំ","name:en":"Svay Chrum","place":"village","population":"517"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.4432778,11.9394141]},"properties":{"name":"កោះដាច់","name:en":"Kaoh Dach","place":"village","population":"861"}}
-{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4332425,11.935569599999999]},"properties":{"name":"កោះព្រលូង","name:en":"Kaoh Prolung","place":"village","population":"509"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.4332425,11.9355696]},"properties":{"name":"កោះព្រលូង","name:en":"Kaoh Prolung","place":"village","population":"509"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.409289,11.9355441]},"properties":{"name:kh":"កោះព្រលូង","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.3892119,11.9257674]},"properties":{"name":"កោះកុក \"ក\"","name:en":"Kaoh Kok Ka","place":"village","population":"207"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.3930493,11.9217551]},"properties":{"name":"ភូមិទី៩","name:en":"Phum Ti Prambuon","place":"village","population":"931"}}
@@ -796,7 +796,7 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.7505,11.5678308]},"properties":{"name":"អណ្ដូងត្របែក","name:en":"Andoung Trabaek","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.8363575,11.5310875]},"properties":{"name":"ត្រស់","name:en":"Tras","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.8207309,11.0219382]},"properties":{"name":"បាសាក់","name:en":"Basak","place":"village"}}
-{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7457417,11.065343500000001]},"properties":{"name":"កំពង់ចំឡង","name:en":"Kampong Chamlang","place":"village"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[105.7457417,11.0653435]},"properties":{"name":"កំពង់ចំឡង","name:en":"Kampong Chamlang","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.7612932,11.153098]},"properties":{"name":"ពោធិរាជ","name:en":"Pouthi Reach","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.7388779,11.1910135]},"properties":{"name":"ធ្លក","name:en":"Thlok","place":"village"}}
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.7249117,11.2258986]},"properties":{"name":"ដូនស","name:en":"Doun Sa","place":"village"}}

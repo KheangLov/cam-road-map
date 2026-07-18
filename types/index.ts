@@ -16,6 +16,10 @@ export type RoadClass =
 
 /** Properties carried on each road feature in the vector tiles. */
 export interface RoadProperties {
+  /** Stable OSM way id — lets edits (pipeline/overrides/) and the routing graph key off a real identifier across weekly data rebuilds. */
+  id: number
+  /** OSM way version at the time this feature was last built, for staleness checks against future overrides. */
+  osmVersion?: number
   status: RoadStatus
   highway: RoadClass
   /** Road number, e.g. "NR1". */

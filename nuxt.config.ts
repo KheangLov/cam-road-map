@@ -20,10 +20,13 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      htmlAttrs: { lang: 'en' },
+      htmlAttrs: { lang: 'km' },
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' },
+      ],
+      link: [
+        { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
       ],
     },
   },
@@ -35,8 +38,9 @@ export default defineNuxtConfig({
       // real HTTP byte-range responses, which neither Nitro's static-asset
       // handler nor Vercel's static hosting reliably provide.
       pmtilesUrl: process.env.NUXT_PUBLIC_PMTILES_URL || '/api/data/cambodia.pmtiles',
-      // Free vector basemap style (no API token required).
+      // Free vector basemap styles (no API token required).
       basemapStyleUrl: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json',
+      basemapStyleUrlDark: 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',
       // Stamped at build time by the pipeline.
       dataUpdatedAt: process.env.DATA_UPDATED_AT || '',
     },

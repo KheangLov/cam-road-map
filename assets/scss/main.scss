@@ -1,5 +1,32 @@
 @use 'maplibre-gl/dist/maplibre-gl.css';
 
+// Theme tokens as CSS custom properties, switched at runtime via
+// `data-theme` on <html> (see useMapState's `theme` + app.vue) — lets every
+// component's scoped SCSS (which reads these through the $color-* aliases
+// in _variables.scss) repaint instantly without a page reload.
+:root,
+:root[data-theme='light'] {
+  --color-bg: #eef1f4;
+  --color-surface: #ffffff;
+  --color-surface-translucent: rgba(255, 255, 255, 0.85);
+  --color-border: #dfe3e8;
+  --color-text: #1c2530;
+  --color-text-muted: #5b6675;
+  --color-accent: #1f7a3d;
+  --shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+}
+
+:root[data-theme='dark'] {
+  --color-bg: #10151d;
+  --color-surface: #1a212c;
+  --color-surface-translucent: rgba(26, 33, 44, 0.85);
+  --color-border: #2c3644;
+  --color-text: #e7ebf1;
+  --color-text-muted: #99a3b3;
+  --color-accent: #4ade80;
+  --shadow: 0 2px 16px rgba(0, 0, 0, 0.5);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -21,4 +48,16 @@ body {
 
 a {
   color: $color-accent;
+}
+
+// MapLibre's own zoom/compass/geolocate/attribution controls ship as fixed
+// light-themed CSS (white buttons, dark icon SVGs baked into the button's
+// background-image) with no dark variant to opt into. Inverting is a cheap
+// way to flip both the button chrome and its icon together in dark mode
+// without having to fork/recolor the icon assets ourselves.
+[data-theme='dark'] {
+  .maplibregl-ctrl-group,
+  .maplibregl-ctrl-attrib.maplibregl-compact {
+    filter: invert(1) hue-rotate(180deg);
+  }
 }

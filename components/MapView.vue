@@ -6,17 +6,22 @@ const mapEl = ref<HTMLElement | null>(null)
 const roadMap = useRoadMap()
 const state = useMapState()
 
-onMounted(async () => {
-  if (!mapEl.value) return
-  await roadMap.createMap(mapEl.value)
-  state.mapReady.value = true
-
-  // Apply current UI state to the freshly-built map.
+// Re-applied after both initial map creation and a theme swap: `setTheme`
+// rebuilds the pmtiles source/layers from scratch (see its doc comment), so
+// visibility/label state doesn't survive a theme change on its own.
+function applyUiState() {
   roadMap.setStatusVisibility(state.visibleStatuses.value)
   for (const level of state.allAdminLevels) {
     roadMap.setAdminVisibility(level, state.isAdminVisible(level))
   }
   roadMap.setLabelLang(state.labelLang.value)
+}
+
+onMounted(async () => {
+  if (!mapEl.value) return
+  await roadMap.createMap(mapEl.value, state.theme.value)
+  state.mapReady.value = true
+  applyUiState()
 
   roadMap.onClickFeature((f: MapGeoJSONFeature) => {
     state.selected.value = toSelected(f)
@@ -31,11 +36,11 @@ watch(state.visibleAdmin, (v) => {
   for (const level of state.allAdminLevels) roadMap.setAdminVisibility(level, v.has(level))
 }, { deep: false })
 watch(state.labelLang, (l) => roadMap.setLabelLang(l))
-
-// Expose imperative camera moves + search to siblings via provide.
-provide('flyToBounds', roadMap.flyToBounds)
-provide('fitToCambodia', roadMap.fitToCambodia)
-provide('searchFeatures', roadMap.search)
+watch(state.theme, async (t) => {
+  if (!state.mapReady.value) return
+  await roadMap.setTheme(t)
+  applyUiState()
+})
 
 function toSelected(f: MapGeoJSONFeature) {
   const p = f.properties as Record<string, unknown>
@@ -44,14 +49,18 @@ function toSelected(f: MapGeoJSONFeature) {
   }
   return { kind: 'admin' as const, admin: p as unknown as AdminProperties }
 }
+
+const loadingText = computed(() =>
+  state.labelLang.value === 'km' ? 'កំពុងផ្ទុកផែនទីកម្ពុជា…' : 'Loading Cambodia map…',
+)
 </script>
 
 <template>
   <div class="map-view">
     <div ref="mapEl" class="map-view__canvas" />
     <div v-if="!state.mapReady.value" class="map-view__loading">
-      <span class="map-view__spinner" />
-      Loading Cambodia map…
+      <AppLogo :size="88" />
+      {{ loadingText }}
     </div>
   </div>
 </template>
@@ -79,18 +88,5 @@ function toSelected(f: MapGeoJSONFeature) {
     font-size: 0.95rem;
     z-index: 5;
   }
-
-  &__spinner {
-    width: 28px;
-    height: 28px;
-    border: 3px solid rgba($color-accent, 0.25);
-    border-top-color: $color-accent;
-    border-radius: 50%;
-    animation: spin 0.8s linear infinite;
-  }
-}
-
-@keyframes spin {
-  to { transform: rotate(360deg); }
 }
 </style>

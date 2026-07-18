@@ -1,4 +1,5 @@
 import type { RoadStatus, AdminLevel, RoadProperties, AdminProperties } from '~/types'
+import type { MapTheme } from '~/utils/mapConfig'
 import { ROAD_STATUSES, ADMIN_LEVELS } from '~/utils/mapConfig'
 
 export type LabelLang = 'en' | 'km'
@@ -16,9 +17,10 @@ export interface SelectedFeature {
 export function useMapState() {
   const visibleStatuses = useState<Set<RoadStatus>>('visibleStatuses', () => new Set(ROAD_STATUSES))
   const visibleAdmin = useState<Set<AdminLevel>>('visibleAdmin', () => new Set<AdminLevel>(['adm1']))
-  const labelLang = useState<LabelLang>('labelLang', () => 'en')
+  const labelLang = useState<LabelLang>('labelLang', () => 'km')
   const selected = useState<SelectedFeature | null>('selectedFeature', () => null)
   const mapReady = useState<boolean>('mapReady', () => false)
+  const theme = useState<MapTheme>('theme', () => 'dark')
 
   function toggleStatus(status: RoadStatus) {
     const next = new Set(visibleStatuses.value)
@@ -44,6 +46,10 @@ export function useMapState() {
     labelLang.value = lang
   }
 
+  function setTheme(t: MapTheme) {
+    theme.value = t
+  }
+
   function isStatusVisible(status: RoadStatus) {
     return visibleStatuses.value.has(status)
   }
@@ -57,11 +63,13 @@ export function useMapState() {
     labelLang,
     selected,
     mapReady,
+    theme,
     allStatuses: ROAD_STATUSES,
     allAdminLevels: ADMIN_LEVELS,
     toggleStatus,
     toggleAdmin,
     setLabelLang,
+    setTheme,
     isStatusVisible,
     isAdminVisible,
   }
